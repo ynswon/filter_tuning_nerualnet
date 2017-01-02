@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{F16CE2B7-3402-6DF2-C673-12373BA753A1}") = "candlestick", "candlestick.vcproj", "{5D7E4115-37F9-7512-09B0-78C13B20FBB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D7E4115-37F9-7512-09B0-78C13B20FBB3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5D7E4115-37F9-7512-09B0-78C13B20FBB3}.Debug|Win32.Build.0 = Debug|Win32
+		{5D7E4115-37F9-7512-09B0-78C13B20FBB3}.Release|Win32.ActiveCfg = Release|Win32
+		{5D7E4115-37F9-7512-09B0-78C13B20FBB3}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

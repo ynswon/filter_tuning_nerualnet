@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{3728C29B-DCD5-B097-A7DA-AE25550641D7}") = "posnegwaterfall", "posnegwaterfall.vcproj", "{0B772F2F-EE16-4528-EDE4-FF943339CD1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B772F2F-EE16-4528-EDE4-FF943339CD1D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0B772F2F-EE16-4528-EDE4-FF943339CD1D}.Debug|Win32.Build.0 = Debug|Win32
+		{0B772F2F-EE16-4528-EDE4-FF943339CD1D}.Release|Win32.ActiveCfg = Release|Win32
+		{0B772F2F-EE16-4528-EDE4-FF943339CD1D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

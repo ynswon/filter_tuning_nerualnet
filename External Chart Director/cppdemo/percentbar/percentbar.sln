@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{75D9E1E0-75CA-16A0-7B0C-F7850C9BC914}") = "percentbar", "percentbar.vcproj", "{E7086661-35AA-50E9-77B2-9EB2F26DD9A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7086661-35AA-50E9-77B2-9EB2F26DD9A8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E7086661-35AA-50E9-77B2-9EB2F26DD9A8}.Debug|Win32.Build.0 = Debug|Win32
+		{E7086661-35AA-50E9-77B2-9EB2F26DD9A8}.Release|Win32.ActiveCfg = Release|Win32
+		{E7086661-35AA-50E9-77B2-9EB2F26DD9A8}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

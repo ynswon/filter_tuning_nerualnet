@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{971AD892-B4E3-1110-F928-6F6BFF5B627E}") = "linecompare", "linecompare.vcproj", "{C7EBA3A4-2C6E-A32C-E607-ACF73612B8C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7EBA3A4-2C6E-A32C-E607-ACF73612B8C8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C7EBA3A4-2C6E-A32C-E607-ACF73612B8C8}.Debug|Win32.Build.0 = Debug|Win32
+		{C7EBA3A4-2C6E-A32C-E607-ACF73612B8C8}.Release|Win32.ActiveCfg = Release|Win32
+		{C7EBA3A4-2C6E-A32C-E607-ACF73612B8C8}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

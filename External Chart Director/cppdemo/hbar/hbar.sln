@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{0C30733F-0426-DF36-5B95-9870CC789ED5}") = "hbar", "hbar.vcproj", "{55D53C6A-675F-BD76-77DA-CA7AE408812D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55D53C6A-675F-BD76-77DA-CA7AE408812D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{55D53C6A-675F-BD76-77DA-CA7AE408812D}.Debug|Win32.Build.0 = Debug|Win32
+		{55D53C6A-675F-BD76-77DA-CA7AE408812D}.Release|Win32.ActiveCfg = Release|Win32
+		{55D53C6A-675F-BD76-77DA-CA7AE408812D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

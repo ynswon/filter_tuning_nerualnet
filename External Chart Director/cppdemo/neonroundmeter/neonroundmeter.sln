@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{264BD590-A8C1-AE63-7868-E3E6AC5A300C}") = "neonroundmeter", "neonroundmeter.vcproj", "{E8DE7CDE-ADBE-EF40-0810-FF262B6E0D94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8DE7CDE-ADBE-EF40-0810-FF262B6E0D94}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E8DE7CDE-ADBE-EF40-0810-FF262B6E0D94}.Debug|Win32.Build.0 = Debug|Win32
+		{E8DE7CDE-ADBE-EF40-0810-FF262B6E0D94}.Release|Win32.ActiveCfg = Release|Win32
+		{E8DE7CDE-ADBE-EF40-0810-FF262B6E0D94}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

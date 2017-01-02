@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{6630F4FF-EA6C-CD86-925F-1D5C1A3362B0}") = "posnegbar", "posnegbar.vcproj", "{FCA641B1-103B-41B3-DBAF-2856B4CB4952}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCA641B1-103B-41B3-DBAF-2856B4CB4952}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FCA641B1-103B-41B3-DBAF-2856B4CB4952}.Debug|Win32.Build.0 = Debug|Win32
+		{FCA641B1-103B-41B3-DBAF-2856B4CB4952}.Release|Win32.ActiveCfg = Release|Win32
+		{FCA641B1-103B-41B3-DBAF-2856B4CB4952}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

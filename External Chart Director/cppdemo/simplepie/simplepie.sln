@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{732BA944-5C4A-D51E-946C-04F1DAAE3482}") = "simplepie", "simplepie.vcproj", "{4410441E-8DF3-67E0-490A-48CE00F2B81B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4410441E-8DF3-67E0-490A-48CE00F2B81B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4410441E-8DF3-67E0-490A-48CE00F2B81B}.Debug|Win32.Build.0 = Debug|Win32
+		{4410441E-8DF3-67E0-490A-48CE00F2B81B}.Release|Win32.ActiveCfg = Release|Win32
+		{4410441E-8DF3-67E0-490A-48CE00F2B81B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

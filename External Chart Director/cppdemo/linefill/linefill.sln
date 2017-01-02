@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{7C76787F-F733-7AA3-64F4-76FED97646ED}") = "linefill", "linefill.vcproj", "{32F11509-787F-AB25-6B81-88421C5590FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32F11509-787F-AB25-6B81-88421C5590FD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{32F11509-787F-AB25-6B81-88421C5590FD}.Debug|Win32.Build.0 = Debug|Win32
+		{32F11509-787F-AB25-6B81-88421C5590FD}.Release|Win32.ActiveCfg = Release|Win32
+		{32F11509-787F-AB25-6B81-88421C5590FD}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

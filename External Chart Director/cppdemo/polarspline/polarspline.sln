@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{E3C755DE-4CAF-484C-17C7-5225FAF23869}") = "polarspline", "polarspline.vcproj", "{C4AE5B0F-F69B-70B4-3B4C-F560D0A91B6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4AE5B0F-F69B-70B4-3B4C-F560D0A91B6E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C4AE5B0F-F69B-70B4-3B4C-F560D0A91B6E}.Debug|Win32.Build.0 = Debug|Win32
+		{C4AE5B0F-F69B-70B4-3B4C-F560D0A91B6E}.Release|Win32.ActiveCfg = Release|Win32
+		{C4AE5B0F-F69B-70B4-3B4C-F560D0A91B6E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

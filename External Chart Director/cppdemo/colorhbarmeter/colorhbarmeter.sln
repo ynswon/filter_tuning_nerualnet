@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{14011FF0-881A-BD99-D195-C0A930F48B77}") = "colorhbarmeter", "colorhbarmeter.vcproj", "{7412C423-E856-BF42-BD83-29EFB27D5940}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7412C423-E856-BF42-BD83-29EFB27D5940}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7412C423-E856-BF42-BD83-29EFB27D5940}.Debug|Win32.Build.0 = Debug|Win32
+		{7412C423-E856-BF42-BD83-29EFB27D5940}.Release|Win32.ActiveCfg = Release|Win32
+		{7412C423-E856-BF42-BD83-29EFB27D5940}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{975EB357-6BAD-FADC-70A3-5E97DF55ACDD}") = "multipie", "multipie.vcproj", "{41BD0A9E-3C40-1A15-8D5C-03963A8E13BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41BD0A9E-3C40-1A15-8D5C-03963A8E13BF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{41BD0A9E-3C40-1A15-8D5C-03963A8E13BF}.Debug|Win32.Build.0 = Debug|Win32
+		{41BD0A9E-3C40-1A15-8D5C-03963A8E13BF}.Release|Win32.ActiveCfg = Release|Win32
+		{41BD0A9E-3C40-1A15-8D5C-03963A8E13BF}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

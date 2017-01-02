@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{BDE3B816-0723-8064-7C35-E9E00A386F6B}") = "simplepyramid", "simplepyramid.vcproj", "{DA385003-1F01-A805-CE0A-7FE0CD8E6E63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA385003-1F01-A805-CE0A-7FE0CD8E6E63}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DA385003-1F01-A805-CE0A-7FE0CD8E6E63}.Debug|Win32.Build.0 = Debug|Win32
+		{DA385003-1F01-A805-CE0A-7FE0CD8E6E63}.Release|Win32.ActiveCfg = Release|Win32
+		{DA385003-1F01-A805-CE0A-7FE0CD8E6E63}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

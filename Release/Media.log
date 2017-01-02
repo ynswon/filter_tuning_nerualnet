@@ -1,0 +1,326 @@
+﻿Build started 2016-10-23 오전 11:18:12.
+     1>Project "C:\work_proj3\MediaProgMfc\Media.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\Media.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Release\Media.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\Media.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ChartViewer.cpp CollectionDlg.cpp Feedforward_Neural_Network.cpp "Fetch Lib\CProject.cpp" "Fetch Lib\NetworkAnalyzerCtr.cpp" FilterTuner.cpp Media.cpp MediaDlg.cpp MediaHandler.cpp NamedPipe.cpp PredictionDlg.cpp Rprop.cpp Rprop_Network.cpp SocketComm.cpp "Tiny Xml Lib\tinyxml2.cpp" TrayIconMng.cpp
+         ChartViewer.cpp
+         CollectionDlg.cpp
+         Feedforward_Neural_Network.cpp
+     1>Feedforward_Neural_Network.cpp(98): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>Feedforward_Neural_Network.cpp(102): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(197) : see declaration of 'strtok'
+     1>Feedforward_Neural_Network.cpp(109): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(197) : see declaration of 'strtok'
+     1>Feedforward_Neural_Network.cpp(258): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>Feedforward_Neural_Network.cpp(264): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(197) : see declaration of 'strtok'
+     1>Feedforward_Neural_Network.cpp(272): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(197) : see declaration of 'strtok'
+         CProject.cpp
+     1>Fetch Lib\CProject.cpp(582): warning C4244: 'initializing' : conversion from '__int64' to 'double', possible loss of data
+     1>Fetch Lib\CProject.cpp(583): warning C4244: 'initializing' : conversion from '__int64' to 'double', possible loss of data
+     1>Fetch Lib\CProject.cpp(618): warning C4244: 'initializing' : conversion from '__int64' to 'double', possible loss of data
+     1>Fetch Lib\CProject.cpp(619): warning C4244: 'initializing' : conversion from '__int64' to 'double', possible loss of data
+     1>Fetch Lib\CProject.cpp(457): warning C4101: 'trace_scale_func_wchar' : unreferenced local variable
+     1>Fetch Lib\CProject.cpp(835): warning C4927: illegal conversion; more than one user-defined conversion has been implicitly applied
+                 while calling the constructor 'ATL::CStringT<BaseType,StringTraits>::CStringT(const wchar_t *)'
+                 with
+                 [
+                     BaseType=wchar_t,
+                     StringTraits=StrTraitMFC_DLL<wchar_t>
+                 ]
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\cstringt.h(961) : see declaration of 'ATL::CStringT<BaseType,StringTraits>::CStringT'
+                 with
+                 [
+                     BaseType=wchar_t,
+                     StringTraits=StrTraitMFC_DLL<wchar_t>
+                 ]
+         NetworkAnalyzerCtr.cpp
+     1>Fetch Lib\NetworkAnalyzerCtr.cpp(86): warning C4129: '%' : unrecognized character escape sequence
+     1>Fetch Lib\NetworkAnalyzerCtr.cpp(86): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+     1>Fetch Lib\NetworkAnalyzerCtr.cpp(88): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+     1>Fetch Lib\NetworkAnalyzerCtr.cpp(93): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+     1>Fetch Lib\NetworkAnalyzerCtr.cpp(95): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+     1>Fetch Lib\NetworkAnalyzerCtr.cpp(110): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(197) : see declaration of 'strtok'
+     1>Fetch Lib\NetworkAnalyzerCtr.cpp(116): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(325) : see declaration of 'sscanf'
+     1>Fetch Lib\NetworkAnalyzerCtr.cpp(119): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(197) : see declaration of 'strtok'
+     1>Fetch Lib\NetworkAnalyzerCtr.cpp(123): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(325) : see declaration of 'sscanf'
+     1>Fetch Lib\NetworkAnalyzerCtr.cpp(126): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(197) : see declaration of 'strtok'
+     1>Fetch Lib\NetworkAnalyzerCtr.cpp(131): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+     1>Fetch Lib\NetworkAnalyzerCtr.cpp(393): warning C4101: 'i' : unreferenced local variable
+     1>Fetch Lib\NetworkAnalyzerCtr.cpp(393): warning C4101: 'k' : unreferenced local variable
+     1>Fetch Lib\NetworkAnalyzerCtr.cpp(393): warning C4101: 'j' : unreferenced local variable
+     1>Fetch Lib\NetworkAnalyzerCtr.cpp(499): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>Fetch Lib\NetworkAnalyzerCtr.cpp(502): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+     1>Fetch Lib\NetworkAnalyzerCtr.cpp(508): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+     1>Fetch Lib\NetworkAnalyzerCtr.cpp(533): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+     1>Fetch Lib\NetworkAnalyzerCtr.cpp(535): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+     1>Fetch Lib\NetworkAnalyzerCtr.cpp(537): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+     1>Fetch Lib\NetworkAnalyzerCtr.cpp(539): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+     1>Fetch Lib\NetworkAnalyzerCtr.cpp(541): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+     1>Fetch Lib\NetworkAnalyzerCtr.cpp(543): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+     1>Fetch Lib\NetworkAnalyzerCtr.cpp(545): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+     1>Fetch Lib\NetworkAnalyzerCtr.cpp(551): warning C4244: '=' : conversion from '__int64' to 'double', possible loss of data
+     1>Fetch Lib\NetworkAnalyzerCtr.cpp(552): warning C4244: '=' : conversion from '__int64' to 'double', possible loss of data
+     1>Fetch Lib\NetworkAnalyzerCtr.cpp(706): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+     1>Fetch Lib\NetworkAnalyzerCtr.cpp(722): warning C4244: 'initializing' : conversion from '__int64' to 'int', possible loss of data
+     1>Fetch Lib\NetworkAnalyzerCtr.cpp(723): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+     1>Fetch Lib\NetworkAnalyzerCtr.cpp(724): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(110) : see declaration of 'strcat'
+     1>Fetch Lib\NetworkAnalyzerCtr.cpp(725): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+     1>Fetch Lib\NetworkAnalyzerCtr.cpp(726): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(110) : see declaration of 'strcat'
+     1>Fetch Lib\NetworkAnalyzerCtr.cpp(727): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+     1>Fetch Lib\NetworkAnalyzerCtr.cpp(728): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(110) : see declaration of 'strcat'
+     1>Fetch Lib\NetworkAnalyzerCtr.cpp(729): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+     1>Fetch Lib\NetworkAnalyzerCtr.cpp(730): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(110) : see declaration of 'strcat'
+     1>Fetch Lib\NetworkAnalyzerCtr.cpp(733): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+     1>Fetch Lib\NetworkAnalyzerCtr.cpp(745): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>Fetch Lib\NetworkAnalyzerCtr.cpp(748): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+     1>Fetch Lib\NetworkAnalyzerCtr.cpp(775): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>Fetch Lib\NetworkAnalyzerCtr.cpp(776): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+     1>Fetch Lib\NetworkAnalyzerCtr.cpp(670): warning C4101: 'feed_cmd' : unreferenced local variable
+     1>Fetch Lib\NetworkAnalyzerCtr.cpp(659): warning C4101: 'k' : unreferenced local variable
+     1>Fetch Lib\NetworkAnalyzerCtr.cpp(659): warning C4101: 'j' : unreferenced local variable
+     1>Fetch Lib\NetworkAnalyzerCtr.cpp(928): warning C4244: 'initializing' : conversion from 'std::streamoff' to 'int', possible loss of data
+     1>Fetch Lib\NetworkAnalyzerCtr.cpp(942): warning C4244: '=' : conversion from 'std::streamoff' to 'int', possible loss of data
+         FilterTuner.cpp
+         Media.cpp
+         MediaDlg.cpp
+     1>MediaDlg.cpp(263): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>MediaDlg.cpp(213): warning C4101: 'input' : unreferenced local variable
+     1>MediaDlg.cpp(846): warning C4482: nonstandard extension used: enum 'MACHINE_STATUS' used in qualified name
+     1>MediaDlg.cpp(848): warning C4482: nonstandard extension used: enum 'MACHINE_STATUS' used in qualified name
+     1>MediaDlg.cpp(850): warning C4482: nonstandard extension used: enum 'MACHINE_STATUS' used in qualified name
+     1>MediaDlg.cpp(1234): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+         MediaHandler.cpp
+     1>MediaHandler.cpp(32): warning C4482: nonstandard extension used: enum 'MACHINE_STATUS' used in qualified name
+     1>MediaHandler.cpp(34): warning C4244: '=' : conversion from 'time_t' to 'int', possible loss of data
+     1>MediaHandler.cpp(128): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+     1>MediaHandler.cpp(133): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+     1>MediaHandler.cpp(284): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+     1>MediaHandler.cpp(306): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+     1>MediaHandler.cpp(311): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+     1>MediaHandler.cpp(316): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+     1>MediaHandler.cpp(321): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+     1>MediaHandler.cpp(326): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+     1>MediaHandler.cpp(368): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+     1>MediaHandler.cpp(390): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+     1>MediaHandler.cpp(395): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+     1>MediaHandler.cpp(400): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+     1>MediaHandler.cpp(405): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+     1>MediaHandler.cpp(410): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+     1>MediaHandler.cpp(447): warning C4482: nonstandard extension used: enum 'MACHINE_STATUS' used in qualified name
+     1>MediaHandler.cpp(462): warning C4482: nonstandard extension used: enum 'MACHINE_STATUS' used in qualified name
+     1>MediaHandler.cpp(777): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>MediaHandler.cpp(885): warning C4102: 'std' : unreferenced label
+     1>MediaHandler.cpp(1082): warning C4101: 'i' : unreferenced local variable
+     1>MediaHandler.cpp(1082): warning C4101: 'k' : unreferenced local variable
+     1>MediaHandler.cpp(1088): warning C4101: 'nCountPointsCharacterMaster' : unreferenced local variable
+     1>MediaHandler.cpp(1082): warning C4101: 'j' : unreferenced local variable
+     1>MediaHandler.cpp(1293): warning C4102: 'std' : unreferenced label
+     1>MediaHandler.cpp(1128): warning C4101: 'k' : unreferenced local variable
+     1>MediaHandler.cpp(1767): warning C4482: nonstandard extension used: enum 'MACHINE_STATUS' used in qualified name
+     1>MediaHandler.cpp(1833): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>MediaHandler.cpp(1780): warning C4101: 'j' : unreferenced local variable
+     1>MediaHandler.cpp(1909): warning C4482: nonstandard extension used: enum 'MACHINE_STATUS' used in qualified name
+     1>MediaHandler.cpp(2205): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(325) : see declaration of 'sscanf'
+     1>MediaHandler.cpp(2208): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(325) : see declaration of 'sscanf'
+     1>MediaHandler.cpp(2232): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(325) : see declaration of 'sscanf'
+     1>MediaHandler.cpp(2239): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(325) : see declaration of 'sscanf'
+     1>MediaHandler.cpp(2246): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(325) : see declaration of 'sscanf'
+     1>MediaHandler.cpp(2253): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(325) : see declaration of 'sscanf'
+     1>MediaHandler.cpp(2260): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(325) : see declaration of 'sscanf'
+     1>MediaHandler.cpp(2206): warning C4101: 'cnt' : unreferenced local variable
+     1>MediaHandler.cpp(2283): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>MediaHandler.cpp(2322): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+     1>MediaHandler.cpp(2514): warning C4101: 'i' : unreferenced local variable
+     1>MediaHandler.cpp(2515): warning C4101: 'waveform' : unreferenced local variable
+     1>MediaHandler.cpp(2514): warning C4101: 'k' : unreferenced local variable
+     1>MediaHandler.cpp(2514): warning C4101: 'j' : unreferenced local variable
+     1>MediaHandler.cpp(2688): warning C4244: '=' : conversion from 'time_t' to 'int', possible loss of data
+     1>MediaHandler.cpp(2950): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(325) : see declaration of 'sscanf'
+     1>MediaHandler.cpp(3025): warning C4482: nonstandard extension used: enum 'MACHINE_STATUS' used in qualified name
+     1>MediaHandler.cpp(3081): warning C4482: nonstandard extension used: enum 'MACHINE_STATUS' used in qualified name
+     1>MediaHandler.cpp(3033): warning C4101: 'product_type' : unreferenced local variable
+     1>MediaHandler.cpp(3294): warning C4101: 'doc' : unreferenced local variable
+     1>MediaHandler.cpp(3349): warning C4482: nonstandard extension used: enum 'MACHINE_STATUS' used in qualified name
+     1>MediaHandler.cpp(3381): warning C4482: nonstandard extension used: enum 'MACHINE_STATUS' used in qualified name
+     1>MediaHandler.cpp(3399): warning C4482: nonstandard extension used: enum 'MACHINE_STATUS' used in qualified name
+     1>MediaHandler.cpp(3431): warning C4482: nonstandard extension used: enum 'MACHINE_STATUS' used in qualified name
+     1>MediaHandler.cpp(3460): warning C4482: nonstandard extension used: enum 'MACHINE_STATUS' used in qualified name
+     1>MediaHandler.cpp(3502): warning C4482: nonstandard extension used: enum 'MACHINE_STATUS' used in qualified name
+     1>MediaHandler.cpp(3541): warning C4244: 'return' : conversion from 'time_t' to 'int', possible loss of data
+     1>MediaHandler.cpp(3567): warning C4482: nonstandard extension used: enum 'MACHINE_STATUS' used in qualified name
+     1>MediaHandler.cpp(3568): warning C4482: nonstandard extension used: enum 'MACHINE_STATUS' used in qualified name
+     1>MediaHandler.cpp(3569): warning C4482: nonstandard extension used: enum 'MACHINE_STATUS' used in qualified name
+     1>MediaHandler.cpp(3570): warning C4482: nonstandard extension used: enum 'MACHINE_STATUS' used in qualified name
+     1>MediaHandler.cpp(3571): warning C4482: nonstandard extension used: enum 'MACHINE_STATUS' used in qualified name
+     1>MediaHandler.cpp(3572): warning C4482: nonstandard extension used: enum 'MACHINE_STATUS' used in qualified name
+     1>MediaHandler.cpp(3585): warning C4482: nonstandard extension used: enum 'MACHINE_STATUS' used in qualified name
+     1>MediaHandler.cpp(3616): warning C4129: 'l' : unrecognized character escape sequence
+     1>MediaHandler.cpp(3803): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>MediaHandler.cpp(4215): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+     1>MediaHandler.cpp(4120): warning C4101: 'buf_output' : unreferenced local variable
+     1>MediaHandler.cpp(4112): warning C4101: 'k' : unreferenced local variable
+     1>MediaHandler.cpp(4112): warning C4101: 'j' : unreferenced local variable
+     1>MediaHandler.cpp(4342): warning C4244: 'return' : conversion from 'time_t' to 'int', possible loss of data
+         NamedPipe.cpp
+     1>NamedPipe.cpp(58): warning C4101: 'hPipe' : unreferenced local variable
+     1>NamedPipe.cpp(79): warning C4101: 'hPipe' : unreferenced local variable
+     1>NamedPipe.cpp(171): warning C4101: 'cbReplyBytes' : unreferenced local variable
+     1>NamedPipe.cpp(171): warning C4101: 'cbWritten' : unreferenced local variable
+     1>NamedPipe.cpp(333): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+         PredictionDlg.cpp
+     1>PredictionDlg.cpp(34): warning C4154: deletion of an array expression; conversion to pointer supplied
+     1>PredictionDlg.cpp(258): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+     1>PredictionDlg.cpp(326): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+     1>PredictionDlg.cpp(330): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+     1>PredictionDlg.cpp(394): warning C4101: 'i' : unreferenced local variable
+         Rprop.cpp
+     1>Rprop.cpp(559): warning C4101: 'i' : unreferenced local variable
+     1>Rprop.cpp(559): warning C4101: 'j' : unreferenced local variable
+     1>Rprop.cpp(726): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>Rprop.cpp(729): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(197) : see declaration of 'strtok'
+     1>Rprop.cpp(737): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(197) : see declaration of 'strtok'
+     1>Rprop.cpp(873): warning C4101: 'i' : unreferenced local variable
+     1>Rprop.cpp(873): warning C4101: 'j' : unreferenced local variable
+     1>Rprop.cpp(909): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>Rprop.cpp(913): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(197) : see declaration of 'strtok'
+     1>Rprop.cpp(920): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(197) : see declaration of 'strtok'
+     1>Rprop.cpp(943): warning C4018: '<' : signed/unsigned mismatch
+         Rprop_Network.cpp
+     1>Rprop_Network.cpp(97): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>Rprop_Network.cpp(101): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(197) : see declaration of 'strtok'
+     1>Rprop_Network.cpp(108): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(197) : see declaration of 'strtok'
+     1>Rprop_Network.cpp(351): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 Rprop_Network.cpp(336) : definition of 'i' ignored
+                 Rprop_Network.cpp(289) : definition of 'i' used
+     1>Rprop_Network.cpp(366): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 Rprop_Network.cpp(357) : definition of 'i' ignored
+                 Rprop_Network.cpp(289) : definition of 'i' used
+     1>Rprop_Network.cpp(366): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 Rprop_Network.cpp(357) : definition of 'i' ignored
+                 Rprop_Network.cpp(289) : definition of 'i' used
+     1>Rprop_Network.cpp(509): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>Rprop_Network.cpp(515): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(197) : see declaration of 'strtok'
+     1>Rprop_Network.cpp(523): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(197) : see declaration of 'strtok'
+         SocketComm.cpp
+         tinyxml2.cpp
+         TrayIconMng.cpp
+     1>TrayIconMng.cpp(65): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0409" /IRelease\ /nologo /fo"Release\Media.res" Media.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\work_proj3\MediaProgMfc\Release\Media.exe" /INCREMENTAL:NO /NOLOGO chartdir60.lib /MANIFEST /ManifestFile:"Release\Media.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\work_proj3\MediaProgMfc\Release\Media.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\work_proj3\MediaProgMfc\Release\Media.lib" /MACHINE:X86 Release\Media.res
+         Release\ChartViewer.obj
+         Release\CollectionDlg.obj
+         Release\Feedforward_Neural_Network.obj
+         Release\CProject.obj
+         Release\NetworkAnalyzerCtr.obj
+         Release\FilterTuner.obj
+         Release\Media.obj
+         Release\MediaDlg.obj
+         Release\MediaHandler.obj
+         Release\NamedPipe.obj
+         Release\PredictionDlg.obj
+         Release\Rprop.obj
+         Release\Rprop_Network.obj
+         Release\SocketComm.obj
+         Release\stdafx.obj
+         Release\tinyxml2.obj
+         Release\TrayIconMng.obj
+         Generating code
+     1>c:\work_proj3\mediaprogmfc\mediahandler.cpp(2639): warning C4715: 'CMediaHandler::process_prediction_once' : not all control paths return a value
+         Finished generating code
+         Media.vcxproj -> C:\work_proj3\MediaProgMfc\Release\Media.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\work_proj3\MediaProgMfc\Release\Media.exe;#1" /manifest Release\Media.exe.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+       FinalizeBuildStatus:
+         Deleting file "Release\Media.unsuccessfulbuild".
+         Touching "Release\Media.lastbuildstate".
+     1>Done Building Project "C:\work_proj3\MediaProgMfc\Media.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:26.32

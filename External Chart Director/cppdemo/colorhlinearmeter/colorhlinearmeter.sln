@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{610DA2F8-CEC3-F616-5219-71C1894578D4}") = "colorhlinearmeter", "colorhlinearmeter.vcproj", "{D74414DF-11D3-F706-58A5-4A1C41298616}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D74414DF-11D3-F706-58A5-4A1C41298616}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D74414DF-11D3-F706-58A5-4A1C41298616}.Debug|Win32.Build.0 = Debug|Win32
+		{D74414DF-11D3-F706-58A5-4A1C41298616}.Release|Win32.ActiveCfg = Release|Win32
+		{D74414DF-11D3-F706-58A5-4A1C41298616}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

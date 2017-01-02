@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{F0E6FE9D-A1B3-B69F-0299-C0BBD9F24193}") = "donutshading", "donutshading.vcproj", "{397F06FF-F4B5-96B2-DAB6-C127160F06C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{397F06FF-F4B5-96B2-DAB6-C127160F06C8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{397F06FF-F4B5-96B2-DAB6-C127160F06C8}.Debug|Win32.Build.0 = Debug|Win32
+		{397F06FF-F4B5-96B2-DAB6-C127160F06C8}.Release|Win32.ActiveCfg = Release|Win32
+		{397F06FF-F4B5-96B2-DAB6-C127160F06C8}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

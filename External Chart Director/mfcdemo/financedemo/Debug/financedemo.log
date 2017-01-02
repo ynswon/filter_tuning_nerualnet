@@ -1,0 +1,47 @@
+﻿Build started 2016-04-16 오전 10:53:45.
+     1>Project "C:\mywork\fetch\fetch\ChartDirector\mfcdemo\financedemo\financedemo.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\financedemo.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\..\include /Zi /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _CRT_SECURE_NO_DEPRECATE /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\financedemo.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\..\include /Zi /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _CRT_SECURE_NO_DEPRECATE /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\financedemo.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ChartViewer.cpp financedemo.cpp financedemoDlg.cpp
+         financedemoDlg.cpp
+         financedemo.cpp
+         ChartViewer.cpp
+         Generating Code...
+       ResourceCompile:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0409" /IDebug\ /nologo /fo"Debug\financedemo.res" financedemo.rc 
+       ManifestResourceCompile:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\financedemo.exe.embed.manifest.res" Debug\financedemo_manifest.rc 
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\..\bin\Debug\financedemo.exe" /INCREMENTAL /NOLOGO ..\..\lib\chartdir60.lib /MANIFEST /ManifestFile:"Debug\financedemo.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\mywork\fetch\fetch\ChartDirector\mfcdemo\bin\Debug\financedemo.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:".\..\bin\Debug\financedemo.lib" /MACHINE:X86 Debug\financedemo.res
+         Debug\financedemo.exe.embed.manifest.res
+         Debug\ChartViewer.obj
+         Debug\financedemo.obj
+         Debug\financedemoDlg.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\financedemo.exe.embed.manifest" /manifest Debug\financedemo.exe.intermediate.manifest "C:\Program Files\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\financedemo.exe.embed.manifest.res" Debug\financedemo_manifest.rc 
+       LinkEmbedManifest:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\..\bin\Debug\financedemo.exe" /INCREMENTAL /NOLOGO ..\..\lib\chartdir60.lib /MANIFEST /ManifestFile:"Debug\financedemo.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\mywork\fetch\fetch\ChartDirector\mfcdemo\bin\Debug\financedemo.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:".\..\bin\Debug\financedemo.lib" /MACHINE:X86 Debug\financedemo.res
+         Debug\financedemo.exe.embed.manifest.res
+         Debug\ChartViewer.obj
+         Debug\financedemo.obj
+         Debug\financedemoDlg.obj
+         Debug\stdafx.obj
+         financedemo.vcxproj -> C:\mywork\fetch\fetch\ChartDirector\mfcdemo\financedemo\.\..\bin\Debug\financedemo.exe
+       PostBuildEvent:
+         Description: Copying ChartDirector DLL to output directory (if necessary)
+         xcopy /D /Y /C ..\..\lib\chartdir60.dll .\..\bin\Debug\
+         :VCEnd
+         0개 파일이 복사되었습니다.
+       FinalizeBuildStatus:
+         Deleting file "Debug\financedemo.unsuccessfulbuild".
+         Touching "Debug\financedemo.lastbuildstate".
+     1>Done Building Project "C:\mywork\fetch\fetch\ChartDirector\mfcdemo\financedemo\financedemo.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.17

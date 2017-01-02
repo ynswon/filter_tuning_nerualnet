@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{26F177A3-46C4-D1F4-5C5F-C444AA7C51FC}") = "shadowpie", "shadowpie.vcproj", "{20E0B46F-D617-9C64-561E-B7FBFDF033B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20E0B46F-D617-9C64-561E-B7FBFDF033B4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{20E0B46F-D617-9C64-561E-B7FBFDF033B4}.Debug|Win32.Build.0 = Debug|Win32
+		{20E0B46F-D617-9C64-561E-B7FBFDF033B4}.Release|Win32.ActiveCfg = Release|Win32
+		{20E0B46F-D617-9C64-561E-B7FBFDF033B4}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

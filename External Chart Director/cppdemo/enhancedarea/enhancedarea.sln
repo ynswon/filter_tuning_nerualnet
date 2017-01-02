@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{CDBCA04D-1A7E-DE74-FE65-C985732FF79D}") = "enhancedarea", "enhancedarea.vcproj", "{89F280F2-AD2F-B98E-2962-6FB706EAB46C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89F280F2-AD2F-B98E-2962-6FB706EAB46C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{89F280F2-AD2F-B98E-2962-6FB706EAB46C}.Debug|Win32.Build.0 = Debug|Win32
+		{89F280F2-AD2F-B98E-2962-6FB706EAB46C}.Release|Win32.ActiveCfg = Release|Win32
+		{89F280F2-AD2F-B98E-2962-6FB706EAB46C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

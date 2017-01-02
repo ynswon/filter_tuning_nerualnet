@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{738C6F1C-F2BD-2C20-282D-D892280EB7BB}") = "blackroundmeter", "blackroundmeter.vcproj", "{2BDA41AB-ABD4-1304-FC9B-ACBB3A8D7EFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BDA41AB-ABD4-1304-FC9B-ACBB3A8D7EFA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2BDA41AB-ABD4-1304-FC9B-ACBB3A8D7EFA}.Debug|Win32.Build.0 = Debug|Win32
+		{2BDA41AB-ABD4-1304-FC9B-ACBB3A8D7EFA}.Release|Win32.ActiveCfg = Release|Win32
+		{2BDA41AB-ABD4-1304-FC9B-ACBB3A8D7EFA}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

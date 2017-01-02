@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{C1CC31AB-7D43-1820-0D74-CC52CEEDD961}") = "linearzonemeter", "linearzonemeter.vcproj", "{7DE638D9-8F7A-3AB6-2D31-EF3DFD3768F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DE638D9-8F7A-3AB6-2D31-EF3DFD3768F9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7DE638D9-8F7A-3AB6-2D31-EF3DFD3768F9}.Debug|Win32.Build.0 = Debug|Win32
+		{7DE638D9-8F7A-3AB6-2D31-EF3DFD3768F9}.Release|Win32.ActiveCfg = Release|Win32
+		{7DE638D9-8F7A-3AB6-2D31-EF3DFD3768F9}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

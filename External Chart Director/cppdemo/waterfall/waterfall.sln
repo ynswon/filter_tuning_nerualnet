@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FADBB2EB-EAA3-2D40-2A1B-E35338B2FB78}") = "waterfall", "waterfall.vcproj", "{E36D76C6-8E05-91E7-57CE-9AD18E2AD4A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E36D76C6-8E05-91E7-57CE-9AD18E2AD4A1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E36D76C6-8E05-91E7-57CE-9AD18E2AD4A1}.Debug|Win32.Build.0 = Debug|Win32
+		{E36D76C6-8E05-91E7-57CE-9AD18E2AD4A1}.Release|Win32.ActiveCfg = Release|Win32
+		{E36D76C6-8E05-91E7-57CE-9AD18E2AD4A1}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

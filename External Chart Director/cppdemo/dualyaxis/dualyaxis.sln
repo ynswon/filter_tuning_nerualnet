@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{C137E232-5985-1C1F-D9EE-B8752EDD0AAF}") = "dualyaxis", "dualyaxis.vcproj", "{48D2D6F6-269A-36E6-A12A-0B88A0C6A201}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48D2D6F6-269A-36E6-A12A-0B88A0C6A201}.Debug|Win32.ActiveCfg = Debug|Win32
+		{48D2D6F6-269A-36E6-A12A-0B88A0C6A201}.Debug|Win32.Build.0 = Debug|Win32
+		{48D2D6F6-269A-36E6-A12A-0B88A0C6A201}.Release|Win32.ActiveCfg = Release|Win32
+		{48D2D6F6-269A-36E6-A12A-0B88A0C6A201}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

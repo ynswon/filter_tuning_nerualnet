@@ -1,0 +1,80 @@
+<input_data_set>
+	<s22>
+		<type>mag</type>
+		<count>10</count>
+		<value index='0'>
+			<mag>3.741</mag>
+			<real>3.741</real>
+		</value> 
+		<value index='1'>
+			<mag>3.741</mag>
+			<real>3.741</real>
+		</value> 
+		<value index='2'>
+			<mag>3.741</mag>
+			<real>3.741</real>
+		</value> 
+		<value index='3'>
+			<mag>3.741</mag>
+			<real>3.741</real>
+		</value> 
+		<value index='4'>
+			<mag>3.741</mag>
+			<real>3.741</real>
+		</value> 
+		<value index='5'>
+			<mag>3.741</mag>
+			<real>3.741</real>
+		</value> 
+		<value index='6'>
+			<mag>3.741</mag>
+			<real>3.741</real>
+		</value> 
+		<value index='7'>
+			<mag>3.741</mag>
+			<real>3.741</real>
+		</value> 
+		<value index='8'>
+			<mag>3.741</mag>
+			<real>3.741</real>
+		</value> 
+		<value index='9'>
+			<mag>3.741</mag>
+			<real>3.741</real>
+		</value> 
+	</s22>
+	<s21>
+		<type>mag</type>
+		<count>10</count>
+		<value index='0'>
+			<mag>3.741</mag> 
+		</value> 
+		<value index='1'>
+			<mag>3.741</mag> 
+		</value> 
+		<value index='2'>
+			<mag>3.741</mag> 
+		</value> 
+		<value index='3'>
+			<mag>3.741</mag> 
+		</value> 
+		<value index='4'>
+			<mag>3.741</mag> 
+		</value> 
+		<value index='5'>
+			<mag>3.741</mag> 
+		</value> 
+		<value index='6'>
+			<mag>3.741</mag> 
+		</value> 
+		<value index='7'>
+			<mag>3.741</mag> 
+		</value> 
+		<value index='8'>
+			<mag>3.741</mag> 
+		</value> 
+		<value index='9'>
+			<mag>3.741</mag> 
+		</value> 
+	</s21>
+</input_data_set>

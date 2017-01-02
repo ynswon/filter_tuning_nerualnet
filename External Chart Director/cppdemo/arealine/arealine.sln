@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{CBCE1CF7-10E9-1EAF-5E5F-959F4F96FCD4}") = "arealine", "arealine.vcproj", "{AB65D9E0-A35F-42BE-8C63-3388DFA9FA4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB65D9E0-A35F-42BE-8C63-3388DFA9FA4B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AB65D9E0-A35F-42BE-8C63-3388DFA9FA4B}.Debug|Win32.Build.0 = Debug|Win32
+		{AB65D9E0-A35F-42BE-8C63-3388DFA9FA4B}.Release|Win32.ActiveCfg = Release|Win32
+		{AB65D9E0-A35F-42BE-8C63-3388DFA9FA4B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

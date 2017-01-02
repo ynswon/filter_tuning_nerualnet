@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{47A65DEF-383C-3D1E-0094-C47B94527E0A}") = "iconameter", "iconameter.vcproj", "{CB45A1F7-FBF0-70EE-8ECF-35D5D73B6AFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB45A1F7-FBF0-70EE-8ECF-35D5D73B6AFF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CB45A1F7-FBF0-70EE-8ECF-35D5D73B6AFF}.Debug|Win32.Build.0 = Debug|Win32
+		{CB45A1F7-FBF0-70EE-8ECF-35D5D73B6AFF}.Release|Win32.ActiveCfg = Release|Win32
+		{CB45A1F7-FBF0-70EE-8ECF-35D5D73B6AFF}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

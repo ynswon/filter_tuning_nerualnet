@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{94607B48-A5AF-6AFC-9734-5175A3143AD7}") = "cone", "cone.vcproj", "{00AE27CF-C218-1194-58A7-98267193A15B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00AE27CF-C218-1194-58A7-98267193A15B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{00AE27CF-C218-1194-58A7-98267193A15B}.Debug|Win32.Build.0 = Debug|Win32
+		{00AE27CF-C218-1194-58A7-98267193A15B}.Release|Win32.ActiveCfg = Release|Win32
+		{00AE27CF-C218-1194-58A7-98267193A15B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

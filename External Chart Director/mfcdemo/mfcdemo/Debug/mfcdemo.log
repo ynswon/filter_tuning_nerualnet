@@ -1,0 +1,91 @@
+﻿Build started 2016-04-16 오전 10:53:48.
+     1>Project "C:\mywork\fetch\fetch\ChartDirector\mfcdemo\mfcdemo\mfcdemo.vcxproj" on node 5 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\mfcdemo.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\..\include /Zi /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _CRT_SECURE_NO_DEPRECATE /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\mfcdemo.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\..\include /Zi /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _CRT_SECURE_NO_DEPRECATE /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\mfcdemo.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ChartViewer.cpp HotSpotDlg.cpp mfccharts.cpp mfcdemo.cpp mfcdemoDlg.cpp
+         mfcdemoDlg.cpp
+         mfcdemo.cpp
+         mfccharts.cpp
+         HotSpotDlg.cpp
+         ChartViewer.cpp
+         Generating Code...
+       ResourceCompile:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0409" /IDebug\ /nologo /fo"Debug\mfcdemo.res" mfcdemo.rc 
+       ManifestResourceCompile:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\mfcdemo.exe.embed.manifest.res" Debug\mfcdemo_manifest.rc 
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\..\bin\Debug\mfcdemo.exe" /INCREMENTAL /NOLOGO ..\..\lib\chartdir60.lib /MANIFEST /ManifestFile:"Debug\mfcdemo.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\mywork\fetch\fetch\ChartDirector\mfcdemo\bin\Debug\mfcdemo.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:".\..\bin\Debug\mfcdemo.lib" /MACHINE:X86 Debug\mfcdemo.res
+         Debug\mfcdemo.exe.embed.manifest.res
+         Debug\ChartViewer.obj
+         Debug\HotSpotDlg.obj
+         Debug\mfccharts.obj
+         Debug\mfcdemo.obj
+         Debug\mfcdemoDlg.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\mfcdemo.exe.embed.manifest" /manifest Debug\mfcdemo.exe.intermediate.manifest "C:\Program Files\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\mfcdemo.exe.embed.manifest.res" Debug\mfcdemo_manifest.rc 
+       LinkEmbedManifest:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\..\bin\Debug\mfcdemo.exe" /INCREMENTAL /NOLOGO ..\..\lib\chartdir60.lib /MANIFEST /ManifestFile:"Debug\mfcdemo.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\mywork\fetch\fetch\ChartDirector\mfcdemo\bin\Debug\mfcdemo.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:".\..\bin\Debug\mfcdemo.lib" /MACHINE:X86 Debug\mfcdemo.res
+         Debug\mfcdemo.exe.embed.manifest.res
+         Debug\ChartViewer.obj
+         Debug\HotSpotDlg.obj
+         Debug\mfccharts.obj
+         Debug\mfcdemo.obj
+         Debug\mfcdemoDlg.obj
+         Debug\stdafx.obj
+         mfcdemo.vcxproj -> C:\mywork\fetch\fetch\ChartDirector\mfcdemo\mfcdemo\.\..\bin\Debug\mfcdemo.exe
+       PostBuildEvent:
+         Description: Copying ChartDirector DLL to output directory (if necessary)
+         xcopy /D /Y /C ..\..\lib\chartdir60.dll .\..\bin\Debug\
+         xcopy /D /Y /C .\*.png .\..\bin\Debug\
+         xcopy /D /Y /C .\*.gif .\..\bin\Debug\
+         
+         :VCEnd
+         0개 파일이 복사되었습니다.
+         .\angry.png
+         .\bg.png
+         .\clock.png
+         .\cloud.png
+         .\computer.png
+         .\doc.png
+         .\laugh.png
+         .\marble.png
+         .\marble2.png
+         .\marble3.png
+         .\molecule.png
+         .\nocomment.png
+         .\rain.png
+         .\robot1.png
+         .\robot2.png
+         .\robot3.png
+         .\robot4.png
+         .\robot5.png
+         .\rock.png
+         .\sad.png
+         .\service.png
+         .\small_computer.png
+         .\small_molecule.png
+         .\small_user.png
+         .\smile.png
+         .\snow.png
+         .\snowy.png
+         .\software.png
+         .\star.png
+         .\sun.png
+         .\wood.png
+         31개 파일이 복사되었습니다.
+         .\gas.gif
+         .\tile.gif
+         2개 파일이 복사되었습니다.
+       FinalizeBuildStatus:
+         Deleting file "Debug\mfcdemo.unsuccessfulbuild".
+         Touching "Debug\mfcdemo.lastbuildstate".
+     1>Done Building Project "C:\mywork\fetch\fetch\ChartDirector\mfcdemo\mfcdemo\mfcdemo.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.80

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{CB13FC78-1229-7145-E3FE-EFDEB3E734AA}") = "vbarmeterorientation", "vbarmeterorientation.vcproj", "{E8F7A434-915F-8876-B788-09DD569B10D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8F7A434-915F-8876-B788-09DD569B10D7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E8F7A434-915F-8876-B788-09DD569B10D7}.Debug|Win32.Build.0 = Debug|Win32
+		{E8F7A434-915F-8876-B788-09DD569B10D7}.Release|Win32.ActiveCfg = Release|Win32
+		{E8F7A434-915F-8876-B788-09DD569B10D7}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

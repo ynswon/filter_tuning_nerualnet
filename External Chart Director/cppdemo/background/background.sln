@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{1ABFB16D-1668-8204-7522-4B78E04A468D}") = "background", "background.vcproj", "{99983DC2-F275-DCBF-0509-ED6D67F86EC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99983DC2-F275-DCBF-0509-ED6D67F86EC5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{99983DC2-F275-DCBF-0509-ED6D67F86EC5}.Debug|Win32.Build.0 = Debug|Win32
+		{99983DC2-F275-DCBF-0509-ED6D67F86EC5}.Release|Win32.ActiveCfg = Release|Win32
+		{99983DC2-F275-DCBF-0509-ED6D67F86EC5}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

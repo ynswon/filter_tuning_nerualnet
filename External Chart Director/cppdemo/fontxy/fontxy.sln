@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{27482154-FC30-B81F-461B-C4AA7347141C}") = "fontxy", "fontxy.vcproj", "{6207200C-8602-DC09-4910-0422A0455FB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6207200C-8602-DC09-4910-0422A0455FB1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6207200C-8602-DC09-4910-0422A0455FB1}.Debug|Win32.Build.0 = Debug|Win32
+		{6207200C-8602-DC09-4910-0422A0455FB1}.Release|Win32.ActiveCfg = Release|Win32
+		{6207200C-8602-DC09-4910-0422A0455FB1}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

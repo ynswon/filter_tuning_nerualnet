@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{40289C79-EE9C-29F3-DB81-1EB1F49DAE24}") = "multishapebar", "multishapebar.vcproj", "{A55596AC-21E3-080B-BCC5-99A677934EA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A55596AC-21E3-080B-BCC5-99A677934EA9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A55596AC-21E3-080B-BCC5-99A677934EA9}.Debug|Win32.Build.0 = Debug|Win32
+		{A55596AC-21E3-080B-BCC5-99A677934EA9}.Release|Win32.ActiveCfg = Release|Win32
+		{A55596AC-21E3-080B-BCC5-99A677934EA9}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

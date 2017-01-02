@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{810C33FB-36DD-0241-0068-C32BD906DCED}") = "financesymbols", "financesymbols.vcproj", "{78D7324D-9EF9-6C1F-E9D8-5265541BD224}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78D7324D-9EF9-6C1F-E9D8-5265541BD224}.Debug|Win32.ActiveCfg = Debug|Win32
+		{78D7324D-9EF9-6C1F-E9D8-5265541BD224}.Debug|Win32.Build.0 = Debug|Win32
+		{78D7324D-9EF9-6C1F-E9D8-5265541BD224}.Release|Win32.ActiveCfg = Release|Win32
+		{78D7324D-9EF9-6C1F-E9D8-5265541BD224}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

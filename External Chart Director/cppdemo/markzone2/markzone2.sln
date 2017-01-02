@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{00B948FA-8E2B-AED3-4824-F1F62172C87B}") = "markzone2", "markzone2.vcproj", "{F8B85596-35D8-666B-1AFF-D49D89C719DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8B85596-35D8-666B-1AFF-D49D89C719DB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F8B85596-35D8-666B-1AFF-D49D89C719DB}.Debug|Win32.Build.0 = Debug|Win32
+		{F8B85596-35D8-666B-1AFF-D49D89C719DB}.Release|Win32.ActiveCfg = Release|Win32
+		{F8B85596-35D8-666B-1AFF-D49D89C719DB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

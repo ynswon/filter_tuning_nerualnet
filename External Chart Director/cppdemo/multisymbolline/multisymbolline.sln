@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{029F7B6F-ECBE-CCE6-6F02-EDD55731ADD6}") = "multisymbolline", "multisymbolline.vcproj", "{2EAD60D0-B115-292F-1B04-8FE67AC1BE34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EAD60D0-B115-292F-1B04-8FE67AC1BE34}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2EAD60D0-B115-292F-1B04-8FE67AC1BE34}.Debug|Win32.Build.0 = Debug|Win32
+		{2EAD60D0-B115-292F-1B04-8FE67AC1BE34}.Release|Win32.ActiveCfg = Release|Win32
+		{2EAD60D0-B115-292F-1B04-8FE67AC1BE34}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

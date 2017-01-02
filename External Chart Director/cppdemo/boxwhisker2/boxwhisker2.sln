@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{574E054D-4333-E6EF-B928-7971D079DFFE}") = "boxwhisker2", "boxwhisker2.vcproj", "{65AE255C-5C15-F192-AC8D-D17DD6E249AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65AE255C-5C15-F192-AC8D-D17DD6E249AB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{65AE255C-5C15-F192-AC8D-D17DD6E249AB}.Debug|Win32.Build.0 = Debug|Win32
+		{65AE255C-5C15-F192-AC8D-D17DD6E249AB}.Release|Win32.ActiveCfg = Release|Win32
+		{65AE255C-5C15-F192-AC8D-D17DD6E249AB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

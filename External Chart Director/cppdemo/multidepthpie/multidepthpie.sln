@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{F19FC2FA-EE3C-D69B-198C-C5B59AB38041}") = "multidepthpie", "multidepthpie.vcproj", "{694DECCA-4AF7-1F6F-2C59-C176C2E05DBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{694DECCA-4AF7-1F6F-2C59-C176C2E05DBA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{694DECCA-4AF7-1F6F-2C59-C176C2E05DBA}.Debug|Win32.Build.0 = Debug|Win32
+		{694DECCA-4AF7-1F6F-2C59-C176C2E05DBA}.Release|Win32.ActiveCfg = Release|Win32
+		{694DECCA-4AF7-1F6F-2C59-C176C2E05DBA}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

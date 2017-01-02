@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{67FDCCCD-3767-6A92-7C0A-17EF9758A092}") = "hboxwhisker", "hboxwhisker.vcproj", "{3236F32C-BAB0-FF03-F4D5-714CA6AB2420}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3236F32C-BAB0-FF03-F4D5-714CA6AB2420}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3236F32C-BAB0-FF03-F4D5-714CA6AB2420}.Debug|Win32.Build.0 = Debug|Win32
+		{3236F32C-BAB0-FF03-F4D5-714CA6AB2420}.Release|Win32.ActiveCfg = Release|Win32
+		{3236F32C-BAB0-FF03-F4D5-714CA6AB2420}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

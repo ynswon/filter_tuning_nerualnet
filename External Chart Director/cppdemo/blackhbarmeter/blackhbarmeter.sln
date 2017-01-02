@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{4B5417E6-3537-4A32-3DAF-5F27786D2FE4}") = "blackhbarmeter", "blackhbarmeter.vcproj", "{2106D255-1F8E-C568-8B46-7003E5E46B16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2106D255-1F8E-C568-8B46-7003E5E46B16}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2106D255-1F8E-C568-8B46-7003E5E46B16}.Debug|Win32.Build.0 = Debug|Win32
+		{2106D255-1F8E-C568-8B46-7003E5E46B16}.Release|Win32.ActiveCfg = Release|Win32
+		{2106D255-1F8E-C568-8B46-7003E5E46B16}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{56A4DC71-F3E8-CF20-04D1-D42A0689806B}") = "polarvector", "polarvector.vcproj", "{41929894-BAEF-7564-961C-6BD758B5D6B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41929894-BAEF-7564-961C-6BD758B5D6B8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{41929894-BAEF-7564-961C-6BD758B5D6B8}.Debug|Win32.Build.0 = Debug|Win32
+		{41929894-BAEF-7564-961C-6BD758B5D6B8}.Release|Win32.ActiveCfg = Release|Win32
+		{41929894-BAEF-7564-961C-6BD758B5D6B8}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

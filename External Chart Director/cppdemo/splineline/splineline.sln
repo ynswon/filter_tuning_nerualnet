@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{A422CBB2-81A7-B96E-1CFF-6C7A283045BB}") = "splineline", "splineline.vcproj", "{FEA21515-1854-FBC9-806C-CBD97F82EC7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEA21515-1854-FBC9-806C-CBD97F82EC7C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FEA21515-1854-FBC9-806C-CBD97F82EC7C}.Debug|Win32.Build.0 = Debug|Win32
+		{FEA21515-1854-FBC9-806C-CBD97F82EC7C}.Release|Win32.ActiveCfg = Release|Win32
+		{FEA21515-1854-FBC9-806C-CBD97F82EC7C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

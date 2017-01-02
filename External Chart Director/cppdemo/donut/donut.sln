@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{4CAF963D-AFF7-AF24-9D79-09367104A13B}") = "donut", "donut.vcproj", "{591D10FD-1D36-3BC3-0B2C-718B0E74DCAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{591D10FD-1D36-3BC3-0B2C-718B0E74DCAD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{591D10FD-1D36-3BC3-0B2C-718B0E74DCAD}.Debug|Win32.Build.0 = Debug|Win32
+		{591D10FD-1D36-3BC3-0B2C-718B0E74DCAD}.Release|Win32.ActiveCfg = Release|Win32
+		{591D10FD-1D36-3BC3-0B2C-718B0E74DCAD}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

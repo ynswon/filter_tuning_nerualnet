@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{44620F6C-C869-2C08-D7FD-60BE63413753}") = "simplebar2", "simplebar2.vcproj", "{817676FE-5845-5E6A-AE9A-1AFE08EE39F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{817676FE-5845-5E6A-AE9A-1AFE08EE39F7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{817676FE-5845-5E6A-AE9A-1AFE08EE39F7}.Debug|Win32.Build.0 = Debug|Win32
+		{817676FE-5845-5E6A-AE9A-1AFE08EE39F7}.Release|Win32.ActiveCfg = Release|Win32
+		{817676FE-5845-5E6A-AE9A-1AFE08EE39F7}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

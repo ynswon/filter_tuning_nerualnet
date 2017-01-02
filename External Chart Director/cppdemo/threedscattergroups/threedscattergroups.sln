@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{86EFBCA8-5A25-F395-D878-A2102B0F9CB7}") = "threedscattergroups", "threedscattergroups.vcproj", "{5B4B12D8-2BCF-912B-120E-C84AEB2C666D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B4B12D8-2BCF-912B-120E-C84AEB2C666D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5B4B12D8-2BCF-912B-120E-C84AEB2C666D}.Debug|Win32.Build.0 = Debug|Win32
+		{5B4B12D8-2BCF-912B-120E-C84AEB2C666D}.Release|Win32.ActiveCfg = Release|Win32
+		{5B4B12D8-2BCF-912B-120E-C84AEB2C666D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{A08305B1-94E7-4034-DD4D-D3B03D7736F2}") = "hlinearmeter", "hlinearmeter.vcproj", "{6699588A-CD79-23BA-C655-DE00403982D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6699588A-CD79-23BA-C655-DE00403982D1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6699588A-CD79-23BA-C655-DE00403982D1}.Debug|Win32.Build.0 = Debug|Win32
+		{6699588A-CD79-23BA-C655-DE00403982D1}.Release|Win32.ActiveCfg = Release|Win32
+		{6699588A-CD79-23BA-C655-DE00403982D1}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{D4688523-8832-7FEA-9757-E32F0E285769}") = "yzonecolor", "yzonecolor.vcproj", "{BF5CDF46-DEB0-EBB5-9664-98442D56EA92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF5CDF46-DEB0-EBB5-9664-98442D56EA92}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BF5CDF46-DEB0-EBB5-9664-98442D56EA92}.Debug|Win32.Build.0 = Debug|Win32
+		{BF5CDF46-DEB0-EBB5-9664-98442D56EA92}.Release|Win32.ActiveCfg = Release|Win32
+		{BF5CDF46-DEB0-EBB5-9664-98442D56EA92}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

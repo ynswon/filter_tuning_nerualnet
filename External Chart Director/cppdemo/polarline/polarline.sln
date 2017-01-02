@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8ABCC4EB-869B-3095-C675-41BB80755DD8}") = "polarline", "polarline.vcproj", "{5FB9F136-20A1-053A-2E2B-86EBE9B5E87A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FB9F136-20A1-053A-2E2B-86EBE9B5E87A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5FB9F136-20A1-053A-2E2B-86EBE9B5E87A}.Debug|Win32.Build.0 = Debug|Win32
+		{5FB9F136-20A1-053A-2E2B-86EBE9B5E87A}.Release|Win32.ActiveCfg = Release|Win32
+		{5FB9F136-20A1-053A-2E2B-86EBE9B5E87A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

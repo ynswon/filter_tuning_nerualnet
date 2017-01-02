@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{5D9A8630-06D2-265D-021E-ED6BE6535483}") = "squareameter", "squareameter.vcproj", "{BAC56159-DD6F-1C25-59C6-5A05BB656597}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAC56159-DD6F-1C25-59C6-5A05BB656597}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BAC56159-DD6F-1C25-59C6-5A05BB656597}.Debug|Win32.Build.0 = Debug|Win32
+		{BAC56159-DD6F-1C25-59C6-5A05BB656597}.Release|Win32.ActiveCfg = Release|Win32
+		{BAC56159-DD6F-1C25-59C6-5A05BB656597}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

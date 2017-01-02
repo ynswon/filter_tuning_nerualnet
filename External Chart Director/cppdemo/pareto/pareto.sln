@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8995AD41-C01C-76BB-2BB0-126D2E6017E7}") = "pareto", "pareto.vcproj", "{75C2DD1B-1B9D-EFE8-1A60-EE250BE840E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75C2DD1B-1B9D-EFE8-1A60-EE250BE840E4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{75C2DD1B-1B9D-EFE8-1A60-EE250BE840E4}.Debug|Win32.Build.0 = Debug|Win32
+		{75C2DD1B-1B9D-EFE8-1A60-EE250BE840E4}.Release|Win32.ActiveCfg = Release|Win32
+		{75C2DD1B-1B9D-EFE8-1A60-EE250BE840E4}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

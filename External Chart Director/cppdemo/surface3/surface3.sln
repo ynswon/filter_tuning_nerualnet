@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{187C2F9E-54CE-7B15-2DF5-1563BFBBD2FE}") = "surface3", "surface3.vcproj", "{472A2054-EBA8-0BAC-DD90-7FB346620DE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{472A2054-EBA8-0BAC-DD90-7FB346620DE1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{472A2054-EBA8-0BAC-DD90-7FB346620DE1}.Debug|Win32.Build.0 = Debug|Win32
+		{472A2054-EBA8-0BAC-DD90-7FB346620DE1}.Release|Win32.ActiveCfg = Release|Win32
+		{472A2054-EBA8-0BAC-DD90-7FB346620DE1}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

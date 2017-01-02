@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{D1EB38D2-2FAE-0DC5-F144-3E60B0BD6220}") = "scattersymbols", "scattersymbols.vcproj", "{D7FE5007-3DA4-35DE-B789-A0359140DB35}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7FE5007-3DA4-35DE-B789-A0359140DB35}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D7FE5007-3DA4-35DE-B789-A0359140DB35}.Debug|Win32.Build.0 = Debug|Win32
+		{D7FE5007-3DA4-35DE-B789-A0359140DB35}.Release|Win32.ActiveCfg = Release|Win32
+		{D7FE5007-3DA4-35DE-B789-A0359140DB35}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

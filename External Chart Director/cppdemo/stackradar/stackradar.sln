@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{846FD196-AF30-7979-6994-A865AE7B5FE4}") = "stackradar", "stackradar.vcproj", "{A7F10DEC-1F7D-81F4-90A2-8EB0468FA918}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7F10DEC-1F7D-81F4-90A2-8EB0468FA918}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A7F10DEC-1F7D-81F4-90A2-8EB0468FA918}.Debug|Win32.Build.0 = Debug|Win32
+		{A7F10DEC-1F7D-81F4-90A2-8EB0468FA918}.Release|Win32.ActiveCfg = Release|Win32
+		{A7F10DEC-1F7D-81F4-90A2-8EB0468FA918}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

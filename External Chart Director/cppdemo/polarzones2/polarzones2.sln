@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{18F0816E-9CF1-49AD-2928-5FC8EC0DF211}") = "polarzones2", "polarzones2.vcproj", "{0746DBDC-75F0-ED2A-318C-4663B13F884D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0746DBDC-75F0-ED2A-318C-4663B13F884D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0746DBDC-75F0-ED2A-318C-4663B13F884D}.Debug|Win32.Build.0 = Debug|Win32
+		{0746DBDC-75F0-ED2A-318C-4663B13F884D}.Release|Win32.ActiveCfg = Release|Win32
+		{0746DBDC-75F0-ED2A-318C-4663B13F884D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

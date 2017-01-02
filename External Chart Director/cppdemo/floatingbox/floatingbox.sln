@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{DB8F6AEC-BD0A-29DB-E700-1261EBB67BF6}") = "floatingbox", "floatingbox.vcproj", "{BF741A99-7578-8AF7-64C0-C73E032A3008}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF741A99-7578-8AF7-64C0-C73E032A3008}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BF741A99-7578-8AF7-64C0-C73E032A3008}.Debug|Win32.Build.0 = Debug|Win32
+		{BF741A99-7578-8AF7-64C0-C73E032A3008}.Release|Win32.ActiveCfg = Release|Win32
+		{BF741A99-7578-8AF7-64C0-C73E032A3008}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

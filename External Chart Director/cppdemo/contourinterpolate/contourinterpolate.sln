@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FB94A503-CD0F-11A5-C95A-F8ED882B2733}") = "contourinterpolate", "contourinterpolate.vcproj", "{E9156CC0-632C-E6EB-82FE-FA3267A2CFE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9156CC0-632C-E6EB-82FE-FA3267A2CFE1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E9156CC0-632C-E6EB-82FE-FA3267A2CFE1}.Debug|Win32.Build.0 = Debug|Win32
+		{E9156CC0-632C-E6EB-82FE-FA3267A2CFE1}.Release|Win32.ActiveCfg = Release|Win32
+		{E9156CC0-632C-E6EB-82FE-FA3267A2CFE1}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

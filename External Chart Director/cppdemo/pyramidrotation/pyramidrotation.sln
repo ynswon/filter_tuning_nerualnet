@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{C3EC709D-A596-41C7-30B5-FF1C04440517}") = "pyramidrotation", "pyramidrotation.vcproj", "{7596FDD8-C839-C4B3-B8AA-2A5EC6C115E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7596FDD8-C839-C4B3-B8AA-2A5EC6C115E9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7596FDD8-C839-C4B3-B8AA-2A5EC6C115E9}.Debug|Win32.Build.0 = Debug|Win32
+		{7596FDD8-C839-C4B3-B8AA-2A5EC6C115E9}.Release|Win32.ActiveCfg = Release|Win32
+		{7596FDD8-C839-C4B3-B8AA-2A5EC6C115E9}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

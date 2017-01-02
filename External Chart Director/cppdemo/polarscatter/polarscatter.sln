@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{6E79C57D-C167-09DE-65F6-7BB10A366AFF}") = "polarscatter", "polarscatter.vcproj", "{2BC066B9-E534-5159-82FC-AD68B17CBF8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BC066B9-E534-5159-82FC-AD68B17CBF8D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2BC066B9-E534-5159-82FC-AD68B17CBF8D}.Debug|Win32.Build.0 = Debug|Win32
+		{2BC066B9-E534-5159-82FC-AD68B17CBF8D}.Release|Win32.ActiveCfg = Release|Win32
+		{2BC066B9-E534-5159-82FC-AD68B17CBF8D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

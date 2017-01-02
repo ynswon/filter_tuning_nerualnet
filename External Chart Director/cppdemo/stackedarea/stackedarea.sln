@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{77CD845B-59D7-1766-1A0F-015989C8F39F}") = "stackedarea", "stackedarea.vcproj", "{65392E12-3785-C2E2-8CEB-A125C05A734A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65392E12-3785-C2E2-8CEB-A125C05A734A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{65392E12-3785-C2E2-8CEB-A125C05A734A}.Debug|Win32.Build.0 = Debug|Win32
+		{65392E12-3785-C2E2-8CEB-A125C05A734A}.Release|Win32.ActiveCfg = Release|Win32
+		{65392E12-3785-C2E2-8CEB-A125C05A734A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

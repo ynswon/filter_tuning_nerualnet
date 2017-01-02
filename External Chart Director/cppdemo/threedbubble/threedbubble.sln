@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{469F7471-C605-3E1A-7522-8ABF428EDEBC}") = "threedbubble", "threedbubble.vcproj", "{815BBBEC-C381-43FB-6856-87CE682FFB8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{815BBBEC-C381-43FB-6856-87CE682FFB8A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{815BBBEC-C381-43FB-6856-87CE682FFB8A}.Debug|Win32.Build.0 = Debug|Win32
+		{815BBBEC-C381-43FB-6856-87CE682FFB8A}.Release|Win32.ActiveCfg = Release|Win32
+		{815BBBEC-C381-43FB-6856-87CE682FFB8A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

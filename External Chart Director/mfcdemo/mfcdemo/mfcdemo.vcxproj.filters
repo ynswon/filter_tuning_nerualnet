@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav</Extensions>
+    </Filter>
+    <Filter Include="Images">
+      <UniqueIdentifier>{fa44d987-a391-43c0-ab6d-45a17f692e7d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ChartViewer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="HotSpotDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mfccharts.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mfcdemo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mfcdemoDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ChartViewer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="HotSpotDlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="mfccharts.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="mfcdemo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="mfcdemoDlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\mfcdemo.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\mfcdemo.rc2">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="angry.png">
+      <Filter>Images</Filter>
+    </None>
+    <None Include="bg.png">
+      <Filter>Images</Filter>
+    </None>
+    <None Include="clock.png">
+      <Filter>Images</Filter>
+    </None>
+    <None Include="cloud.png">
+      <Filter>Images</Filter>
+    </None>
+    <None Include="computer.png">
+      <Filter>Images</Filter>
+    </None>
+    <None Include="doc.png">
+      <Filter>Images</Filter>
+    </None>
+    <None Include="gas.gif">
+      <Filter>Images</Filter>
+    </None>
+    <None Include="laugh.png">
+      <Filter>Images</Filter>
+    </None>
+    <None Include="marble.png">
+      <Filter>Images</Filter>
+    </None>
+    <None Include="marble2.png">
+      <Filter>Images</Filter>
+    </None>
+    <None Include="marble3.png">
+      <Filter>Images</Filter>
+    </None>
+    <None Include="molecule.png">
+      <Filter>Images</Filter>
+    </None>
+    <None Include="nocomment.png">
+      <Filter>Images</Filter>
+    </None>
+    <None Include="rain.png">
+      <Filter>Images</Filter>
+    </None>
+    <None Include="robot1.png">
+      <Filter>Images</Filter>
+    </None>
+    <None Include="robot2.png">
+      <Filter>Images</Filter>
+    </None>
+    <None Include="robot3.png">
+      <Filter>Images</Filter>
+    </None>
+    <None Include="robot4.png">
+      <Filter>Images</Filter>
+    </None>
+    <None Include="robot5.png">
+      <Filter>Images</Filter>
+    </None>
+    <None Include="rock.png">
+      <Filter>Images</Filter>
+    </None>
+    <None Include="sad.png">
+      <Filter>Images</Filter>
+    </None>
+    <None Include="service.png">
+      <Filter>Images</Filter>
+    </None>
+    <None Include="small_computer.png">
+      <Filter>Images</Filter>
+    </None>
+    <None Include="small_molecule.png">
+      <Filter>Images</Filter>
+    </None>
+    <None Include="small_user.png">
+      <Filter>Images</Filter>
+    </None>
+    <None Include="smile.png">
+      <Filter>Images</Filter>
+    </None>
+    <None Include="snow.png">
+      <Filter>Images</Filter>
+    </None>
+    <None Include="snowy.png">
+      <Filter>Images</Filter>
+    </None>
+    <None Include="software.png">
+      <Filter>Images</Filter>
+    </None>
+    <None Include="star.png">
+      <Filter>Images</Filter>
+    </None>
+    <None Include="sun.png">
+      <Filter>Images</Filter>
+    </None>
+    <None Include="tile.gif">
+      <Filter>Images</Filter>
+    </None>
+    <None Include="wood.png">
+      <Filter>Images</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="mfcdemo.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

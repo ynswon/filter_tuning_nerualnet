@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{3A2ACFC4-953D-D17F-01C6-3DCE2D989A14}") = "varwidthbar", "varwidthbar.vcproj", "{0D3E4873-364D-D656-9AC5-CCD4CBECE493}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D3E4873-364D-D656-9AC5-CCD4CBECE493}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0D3E4873-364D-D656-9AC5-CCD4CBECE493}.Debug|Win32.Build.0 = Debug|Win32
+		{0D3E4873-364D-D656-9AC5-CCD4CBECE493}.Release|Win32.ActiveCfg = Release|Win32
+		{0D3E4873-364D-D656-9AC5-CCD4CBECE493}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

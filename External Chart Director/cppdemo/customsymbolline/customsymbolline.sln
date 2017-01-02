@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{2E4D949B-647E-7279-1C67-522FB9ABA060}") = "customsymbolline", "customsymbolline.vcproj", "{5DA34544-9D89-9E11-9CB0-DEBA8BF6473B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DA34544-9D89-9E11-9CB0-DEBA8BF6473B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5DA34544-9D89-9E11-9CB0-DEBA8BF6473B}.Debug|Win32.Build.0 = Debug|Win32
+		{5DA34544-9D89-9E11-9CB0-DEBA8BF6473B}.Release|Win32.ActiveCfg = Release|Win32
+		{5DA34544-9D89-9E11-9CB0-DEBA8BF6473B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

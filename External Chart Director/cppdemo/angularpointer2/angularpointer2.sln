@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{DACD485F-728E-854D-B540-09591BA45D82}") = "angularpointer2", "angularpointer2.vcproj", "{8CCFB4AA-8FFD-F172-C753-C6E36168B677}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CCFB4AA-8FFD-F172-C753-C6E36168B677}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8CCFB4AA-8FFD-F172-C753-C6E36168B677}.Debug|Win32.Build.0 = Debug|Win32
+		{8CCFB4AA-8FFD-F172-C753-C6E36168B677}.Release|Win32.ActiveCfg = Release|Win32
+		{8CCFB4AA-8FFD-F172-C753-C6E36168B677}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

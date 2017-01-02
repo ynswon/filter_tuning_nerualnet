@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{DC639BE0-A2A8-9CE8-C28C-51A0F89A1BD1}") = "scatterlabels", "scatterlabels.vcproj", "{EA017204-36EF-0611-74AA-D0CC260E1FAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA017204-36EF-0611-74AA-D0CC260E1FAF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EA017204-36EF-0611-74AA-D0CC260E1FAF}.Debug|Win32.Build.0 = Debug|Win32
+		{EA017204-36EF-0611-74AA-D0CC260E1FAF}.Release|Win32.ActiveCfg = Release|Win32
+		{EA017204-36EF-0611-74AA-D0CC260E1FAF}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

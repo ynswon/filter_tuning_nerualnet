@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{EDF16032-B4B9-04A2-DD7F-701D46D03E54}") = "fontpie", "fontpie.vcproj", "{CCC8561B-A0C5-1808-C9C1-21470FF6C3BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCC8561B-A0C5-1808-C9C1-21470FF6C3BF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CCC8561B-A0C5-1808-C9C1-21470FF6C3BF}.Debug|Win32.Build.0 = Debug|Win32
+		{CCC8561B-A0C5-1808-C9C1-21470FF6C3BF}.Release|Win32.ActiveCfg = Release|Win32
+		{CCC8561B-A0C5-1808-C9C1-21470FF6C3BF}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,221 @@
+<info_project_property>
+    <projects>
+        <project name="dual_peak_two_port">
+            <filter name="SINGLE">
+                <sw name="FT">
+                    <master_data>1</master_data>
+                    <sample_data requirement="19" exist="3">0</sample_data>
+                    <weight_data requirement="1" exist="1">1</weight_data>
+                    <reflection>S22</reflection>
+                    <transmission>S21</transmission>
+                    <poles>19</poles>
+                </sw>
+                <sw name="RT">
+                    <master_data>0</master_data>
+                    <sample_data requirement="19" exist="1">0</sample_data>
+                    <weight_data requirement="19" exist="19">1</weight_data>
+                    <reflection>S22</reflection>
+                    <transmission></transmission>
+                    <poles>19</poles>
+                </sw>
+            </filter>
+        </project>
+        <project name="makecjh">
+            <filter name="HIGH">
+                <sw name="FT">
+                    <master_data>0</master_data>
+                    <sample_data requirement="20" exist="0">0</sample_data>
+                    <weight_data requirement="1" exist="0">0</weight_data>
+                    <reflection>S33</reflection>
+                    <transmission>S31</transmission>
+                    <poles>20</poles>
+                </sw>
+                <sw name="RT">
+                    <master_data>0</master_data>
+                    <sample_data requirement="20" exist="0">0</sample_data>
+                    <weight_data requirement="20" exist="0">0</weight_data>
+                    <reflection>S33</reflection>
+                    <transmission>S31</transmission>
+                    <poles>20</poles>
+                </sw>
+            </filter>
+            <filter name="LOW">
+                <sw name="FT">
+                    <master_data>0</master_data>
+                    <sample_data requirement="20" exist="0">0</sample_data>
+                    <weight_data requirement="1" exist="0">0</weight_data>
+                    <reflection>S33</reflection>
+                    <transmission>S31</transmission>
+                    <poles>20</poles>
+                </sw>
+                <sw name="RT">
+                    <master_data>0</master_data>
+                    <sample_data requirement="20" exist="0">0</sample_data>
+                    <weight_data requirement="20" exist="0">0</weight_data>
+                    <reflection>S33</reflection>
+                    <transmission>S31</transmission>
+                    <poles>20</poles>
+                </sw>
+            </filter>
+        </project>
+        <project name="naverdom">
+            <filter name="HIGH">
+                <sw name="FT">
+                    <master_data>0</master_data>
+                    <sample_data requirement="100" exist="0">0</sample_data>
+                    <weight_data requirement="1" exist="0">0</weight_data>
+                    <reflection>S33</reflection>
+                    <transmission>S31</transmission>
+                    <poles>100</poles>
+                </sw>
+                <sw name="RT">
+                    <master_data>0</master_data>
+                    <sample_data requirement="100" exist="0">0</sample_data>
+                    <weight_data requirement="100" exist="0">0</weight_data>
+                    <reflection>S33</reflection>
+                    <transmission>S31</transmission>
+                    <poles>100</poles>
+                </sw>
+            </filter>
+            <filter name="LOW">
+                <sw name="FT">
+                    <master_data>0</master_data>
+                    <sample_data requirement="100" exist="0">0</sample_data>
+                    <weight_data requirement="1" exist="0">0</weight_data>
+                    <reflection>S33</reflection>
+                    <transmission>S31</transmission>
+                    <poles>100</poles>
+                </sw>
+                <sw name="RT">
+                    <master_data>0</master_data>
+                    <sample_data requirement="100" exist="0">0</sample_data>
+                    <weight_data requirement="100" exist="0">0</weight_data>
+                    <reflection>S33</reflection>
+                    <transmission>S31</transmission>
+                    <poles>100</poles>
+                </sw>
+            </filter>
+        </project>
+        <project name="pole19">
+            <filter name="HIGH">
+                <sw name="FT">
+                    <master_data>0</master_data>
+                    <sample_data requirement="0" exist="0">1</sample_data>
+                    <weight_data requirement="1" exist="0">0</weight_data>
+                    <reflection>S33</reflection>
+                    <transmission>S31</transmission>
+                    <poles>0</poles>
+                </sw>
+                <sw name="RT">
+                    <master_data>0</master_data>
+                    <sample_data requirement="0" exist="0">1</sample_data>
+                    <weight_data requirement="0" exist="0">1</weight_data>
+                    <reflection>S33</reflection>
+                    <transmission>S31</transmission>
+                    <poles>0</poles>
+                </sw>
+            </filter>
+            <filter name="LOW">
+                <sw name="FT">
+                    <master_data>0</master_data>
+                    <sample_data requirement="0" exist="0">1</sample_data>
+                    <weight_data requirement="1" exist="0">0</weight_data>
+                    <reflection>S22</reflection>
+                    <transmission>S21</transmission>
+                    <poles>0</poles>
+                </sw>
+                <sw name="RT">
+                    <master_data>0</master_data>
+                    <sample_data requirement="0" exist="0">1</sample_data>
+                    <weight_data requirement="0" exist="0">1</weight_data>
+                    <reflection>S22</reflection>
+                    <transmission></transmission>
+                    <poles>0</poles>
+                </sw>
+            </filter>
+        </project>
+        <project name="pole5"/>
+        <project name="roswin_filter">
+            <filter name="HIGH">
+                <sw name="FT">
+                    <master_data>0</master_data>
+                    <sample_data requirement="20" exist="0">0</sample_data>
+                    <weight_data requirement="1" exist="0">0</weight_data>
+                    <reflection>S33</reflection>
+                    <transmission>S31</transmission>
+                    <poles>20</poles>
+                </sw>
+                <sw name="RT">
+                    <master_data>0</master_data>
+                    <sample_data requirement="20" exist="0">0</sample_data>
+                    <weight_data requirement="20" exist="0">0</weight_data>
+                    <reflection>S33</reflection>
+                    <transmission>S31</transmission>
+                    <poles>20</poles>
+                </sw>
+            </filter>
+            <filter name="LOW">
+                <sw name="FT">
+                    <master_data>1</master_data>
+                    <sample_data requirement="19" exist="3">0</sample_data>
+                    <weight_data requirement="1" exist="1">1</weight_data>
+                    <reflection>S22</reflection>
+                    <transmission>S21</transmission>
+                    <poles>19</poles>
+                </sw>
+                <sw name="RT">
+                    <master_data>0</master_data>
+                    <sample_data requirement="19" exist="1">0</sample_data>
+                    <weight_data requirement="19" exist="19">1</weight_data>
+                    <reflection>S22</reflection>
+                    <transmission></transmission>
+                    <poles>19</poles>
+                </sw>
+            </filter>
+        </project>
+        <project name="roswin_filter_jh">
+            <filter name="HIGH">
+                <sw name="FT">
+                    <master_data>0</master_data>
+                    <sample_data requirement="20" exist="0">0</sample_data>
+                    <weight_data requirement="1" exist="0">0</weight_data>
+                    <reflection>S33</reflection>
+                    <transmission>S31</transmission>
+                    <poles>20</poles>
+                </sw>
+                <sw name="RT">
+                    <master_data>0</master_data>
+                    <sample_data requirement="20" exist="0">0</sample_data>
+                    <weight_data requirement="20" exist="0">0</weight_data>
+                    <reflection>S33</reflection>
+                    <transmission>S31</transmission>
+                    <poles>20</poles>
+                </sw>
+            </filter>
+            <filter name="LOW">
+                <sw name="FT">
+                    <master_data>1</master_data>
+                    <sample_data requirement="19" exist="3">0</sample_data>
+                    <weight_data requirement="1" exist="1">1</weight_data>
+                    <reflection>S22</reflection>
+                    <transmission>S21</transmission>
+                    <poles>19</poles>
+                </sw>
+                <sw name="RT">
+                    <master_data>0</master_data>
+                    <sample_data requirement="19" exist="1">0</sample_data>
+                    <weight_data requirement="19" exist="19">1</weight_data>
+                    <reflection>S22</reflection>
+                    <transmission></transmission>
+                    <poles>19</poles>
+                </sw>
+            </filter>
+        </project>
+        <project name="sample_proj1"/>
+        <project name="sample_proj2"/>
+        <project name="sample_proj3"/>
+        <project name="sample_proj4"/>
+    </projects>
+    <message_id>78_1471747977</message_id>
+    <origin_msg/>
+</info_project_property>

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{6DAC1400-AD57-9C8D-BCD6-0870B9B848F6}") = "rotatedpyramid", "rotatedpyramid.vcproj", "{C682E265-8951-705F-1244-E421A45E135E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C682E265-8951-705F-1244-E421A45E135E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C682E265-8951-705F-1244-E421A45E135E}.Debug|Win32.Build.0 = Debug|Win32
+		{C682E265-8951-705F-1244-E421A45E135E}.Release|Win32.ActiveCfg = Release|Win32
+		{C682E265-8951-705F-1244-E421A45E135E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

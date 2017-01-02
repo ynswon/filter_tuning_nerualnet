@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{7694C52C-A54C-4C7E-D5A2-F2581EB28400}") = "whitehbarmeter", "whitehbarmeter.vcproj", "{D902562C-F19D-D799-2EA7-3FFD5F9B8A21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D902562C-F19D-D799-2EA7-3FFD5F9B8A21}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D902562C-F19D-D799-2EA7-3FFD5F9B8A21}.Debug|Win32.Build.0 = Debug|Win32
+		{D902562C-F19D-D799-2EA7-3FFD5F9B8A21}.Release|Win32.ActiveCfg = Release|Win32
+		{D902562C-F19D-D799-2EA7-3FFD5F9B8A21}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

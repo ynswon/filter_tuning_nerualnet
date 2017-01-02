@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{7CA96C5C-122D-C0E0-FF0A-2E42A606A8CC}") = "hbarmeter", "hbarmeter.vcproj", "{696E2E75-9207-2CA3-5CE6-B843C514E304}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{696E2E75-9207-2CA3-5CE6-B843C514E304}.Debug|Win32.ActiveCfg = Debug|Win32
+		{696E2E75-9207-2CA3-5CE6-B843C514E304}.Debug|Win32.Build.0 = Debug|Win32
+		{696E2E75-9207-2CA3-5CE6-B843C514E304}.Release|Win32.ActiveCfg = Release|Win32
+		{696E2E75-9207-2CA3-5CE6-B843C514E304}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

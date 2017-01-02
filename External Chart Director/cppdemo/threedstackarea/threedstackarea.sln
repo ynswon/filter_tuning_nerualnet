@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{88EE6BFC-0441-E12C-5E54-989FF11691B0}") = "threedstackarea", "threedstackarea.vcproj", "{4AEC58BE-9716-EF59-1B78-B14698D096D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AEC58BE-9716-EF59-1B78-B14698D096D7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4AEC58BE-9716-EF59-1B78-B14698D096D7}.Debug|Win32.Build.0 = Debug|Win32
+		{4AEC58BE-9716-EF59-1B78-B14698D096D7}.Release|Win32.ActiveCfg = Release|Win32
+		{4AEC58BE-9716-EF59-1B78-B14698D096D7}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

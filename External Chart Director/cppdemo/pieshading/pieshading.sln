@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{A9BD6133-FC5F-394D-535B-B9DAE5934C42}") = "pieshading", "pieshading.vcproj", "{798D8C9C-F2A2-A971-CBE9-EDE232E87D3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{798D8C9C-F2A2-A971-CBE9-EDE232E87D3A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{798D8C9C-F2A2-A971-CBE9-EDE232E87D3A}.Debug|Win32.Build.0 = Debug|Win32
+		{798D8C9C-F2A2-A971-CBE9-EDE232E87D3A}.Release|Win32.ActiveCfg = Release|Win32
+		{798D8C9C-F2A2-A971-CBE9-EDE232E87D3A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

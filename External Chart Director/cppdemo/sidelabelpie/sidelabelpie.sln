@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{CB265D13-AA7C-B469-DA1C-6C3771AF4015}") = "sidelabelpie", "sidelabelpie.vcproj", "{5D2CDA5B-C94D-C207-3CAD-949704AA6B11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D2CDA5B-C94D-C207-3CAD-949704AA6B11}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5D2CDA5B-C94D-C207-3CAD-949704AA6B11}.Debug|Win32.Build.0 = Debug|Win32
+		{5D2CDA5B-C94D-C207-3CAD-949704AA6B11}.Release|Win32.ActiveCfg = Release|Win32
+		{5D2CDA5B-C94D-C207-3CAD-949704AA6B11}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

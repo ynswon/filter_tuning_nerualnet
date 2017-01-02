@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{9BCD6D3D-896A-E47C-9E29-555D74F9796E}") = "curvefitting", "curvefitting.vcproj", "{C70E4E1D-E0D0-1EDE-B6D5-2A7083D2CB17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C70E4E1D-E0D0-1EDE-B6D5-2A7083D2CB17}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C70E4E1D-E0D0-1EDE-B6D5-2A7083D2CB17}.Debug|Win32.Build.0 = Debug|Win32
+		{C70E4E1D-E0D0-1EDE-B6D5-2A7083D2CB17}.Release|Win32.ActiveCfg = Release|Win32
+		{C70E4E1D-E0D0-1EDE-B6D5-2A7083D2CB17}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

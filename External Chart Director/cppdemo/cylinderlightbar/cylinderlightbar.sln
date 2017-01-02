@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{C07CB742-1BC5-1389-35F7-D8F38322D898}") = "cylinderlightbar", "cylinderlightbar.vcproj", "{1C75F3F2-3F38-5350-38B4-6AEBCBBF8CB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C75F3F2-3F38-5350-38B4-6AEBCBBF8CB9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1C75F3F2-3F38-5350-38B4-6AEBCBBF8CB9}.Debug|Win32.Build.0 = Debug|Win32
+		{1C75F3F2-3F38-5350-38B4-6AEBCBBF8CB9}.Release|Win32.ActiveCfg = Release|Win32
+		{1C75F3F2-3F38-5350-38B4-6AEBCBBF8CB9}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

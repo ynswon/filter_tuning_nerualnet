@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{F037DE94-942F-A5F3-2099-4E76723B0A13}") = "polarbubble", "polarbubble.vcproj", "{CA928451-0558-1128-E26E-A3A30728F262}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA928451-0558-1128-E26E-A3A30728F262}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CA928451-0558-1128-E26E-A3A30728F262}.Debug|Win32.Build.0 = Debug|Win32
+		{CA928451-0558-1128-E26E-A3A30728F262}.Release|Win32.ActiveCfg = Release|Win32
+		{CA928451-0558-1128-E26E-A3A30728F262}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

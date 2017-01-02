@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{2D2B88AC-B9AB-C1BE-9774-19AFEF95379E}") = "finance", "finance.vcproj", "{05D59A47-79A3-A7E4-91F8-8E1F9E01A400}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05D59A47-79A3-A7E4-91F8-8E1F9E01A400}.Debug|Win32.ActiveCfg = Debug|Win32
+		{05D59A47-79A3-A7E4-91F8-8E1F9E01A400}.Debug|Win32.Build.0 = Debug|Win32
+		{05D59A47-79A3-A7E4-91F8-8E1F9E01A400}.Release|Win32.ActiveCfg = Release|Win32
+		{05D59A47-79A3-A7E4-91F8-8E1F9E01A400}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{86AEF582-AE0B-12A1-8CE0-2C8CD4ABE9E6}") = "trendline", "trendline.vcproj", "{AA2DDBF3-32F8-0189-4113-9B4EC5C2061E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA2DDBF3-32F8-0189-4113-9B4EC5C2061E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AA2DDBF3-32F8-0189-4113-9B4EC5C2061E}.Debug|Win32.Build.0 = Debug|Win32
+		{AA2DDBF3-32F8-0189-4113-9B4EC5C2061E}.Release|Win32.ActiveCfg = Release|Win32
+		{AA2DDBF3-32F8-0189-4113-9B4EC5C2061E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

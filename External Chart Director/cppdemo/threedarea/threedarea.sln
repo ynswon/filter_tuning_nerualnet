@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{13EC7AEF-7971-7E88-88C4-66AC8BD6A7B1}") = "threedarea", "threedarea.vcproj", "{55EA10FC-0B8E-5FC1-3E98-28AE8F475D93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55EA10FC-0B8E-5FC1-3E98-28AE8F475D93}.Debug|Win32.ActiveCfg = Debug|Win32
+		{55EA10FC-0B8E-5FC1-3E98-28AE8F475D93}.Debug|Win32.Build.0 = Debug|Win32
+		{55EA10FC-0B8E-5FC1-3E98-28AE8F475D93}.Release|Win32.ActiveCfg = Release|Win32
+		{55EA10FC-0B8E-5FC1-3E98-28AE8F475D93}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

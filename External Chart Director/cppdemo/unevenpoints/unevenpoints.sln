@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{58502053-0AB1-4830-1BA2-A96AF15E1788}") = "unevenpoints", "unevenpoints.vcproj", "{75DEDC47-1321-F71C-9800-FA958F7F2D37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75DEDC47-1321-F71C-9800-FA958F7F2D37}.Debug|Win32.ActiveCfg = Debug|Win32
+		{75DEDC47-1321-F71C-9800-FA958F7F2D37}.Debug|Win32.Build.0 = Debug|Win32
+		{75DEDC47-1321-F71C-9800-FA958F7F2D37}.Release|Win32.ActiveCfg = Release|Win32
+		{75DEDC47-1321-F71C-9800-FA958F7F2D37}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

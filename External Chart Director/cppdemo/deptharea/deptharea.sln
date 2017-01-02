@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{BAA3CDB5-693E-2E49-C8FA-001ED16974BF}") = "deptharea", "deptharea.vcproj", "{035CBE6E-79D9-DF64-8049-48643BDDA1C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{035CBE6E-79D9-DF64-8049-48643BDDA1C9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{035CBE6E-79D9-DF64-8049-48643BDDA1C9}.Debug|Win32.Build.0 = Debug|Win32
+		{035CBE6E-79D9-DF64-8049-48643BDDA1C9}.Release|Win32.ActiveCfg = Release|Win32
+		{035CBE6E-79D9-DF64-8049-48643BDDA1C9}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

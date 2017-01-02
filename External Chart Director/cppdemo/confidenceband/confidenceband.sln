@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{34FD5A15-498A-FA8E-205F-370630BB1E00}") = "confidenceband", "confidenceband.vcproj", "{9C6CFC70-7B2B-FF34-5A1D-65BC7B4F22A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C6CFC70-7B2B-FF34-5A1D-65BC7B4F22A2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9C6CFC70-7B2B-FF34-5A1D-65BC7B4F22A2}.Debug|Win32.Build.0 = Debug|Win32
+		{9C6CFC70-7B2B-FF34-5A1D-65BC7B4F22A2}.Release|Win32.ActiveCfg = Release|Win32
+		{9C6CFC70-7B2B-FF34-5A1D-65BC7B4F22A2}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

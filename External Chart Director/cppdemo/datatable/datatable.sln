@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{0080FE85-94ED-CD97-C188-2D44C3104346}") = "datatable", "datatable.vcproj", "{50F6DDC3-8A47-38BE-15C6-A2AB5C0FB649}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50F6DDC3-8A47-38BE-15C6-A2AB5C0FB649}.Debug|Win32.ActiveCfg = Debug|Win32
+		{50F6DDC3-8A47-38BE-15C6-A2AB5C0FB649}.Debug|Win32.Build.0 = Debug|Win32
+		{50F6DDC3-8A47-38BE-15C6-A2AB5C0FB649}.Release|Win32.ActiveCfg = Release|Win32
+		{50F6DDC3-8A47-38BE-15C6-A2AB5C0FB649}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

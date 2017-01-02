@@ -1,0 +1,23 @@
+<machine>
+    <operation>START</operation>
+    <option/>
+    <message_id>3_1471160092</message_id>
+</machine>
+
+<!--
+
+<machine>
+    <operation>STOP</operation>
+    <option/>
+    <message_id>6_1471160124</message_id>
+</machine>
+
+
+
+<machine>
+    <operation>CYCLE</operation>
+    <option/>
+    <message_id>9_1471160136</message_id>
+</machine>
+
+-->

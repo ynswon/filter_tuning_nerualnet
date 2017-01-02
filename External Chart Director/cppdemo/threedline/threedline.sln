@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{C068DC8E-3262-A06C-2083-EB3298840FD7}") = "threedline", "threedline.vcproj", "{2B2E0D01-37EC-B699-5DE9-ED6F52DCB8DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B2E0D01-37EC-B699-5DE9-ED6F52DCB8DB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2B2E0D01-37EC-B699-5DE9-ED6F52DCB8DB}.Debug|Win32.Build.0 = Debug|Win32
+		{2B2E0D01-37EC-B699-5DE9-ED6F52DCB8DB}.Release|Win32.ActiveCfg = Release|Win32
+		{2B2E0D01-37EC-B699-5DE9-ED6F52DCB8DB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

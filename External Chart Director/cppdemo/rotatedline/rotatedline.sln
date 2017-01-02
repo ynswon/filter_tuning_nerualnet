@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{7EA57ECC-7C48-BFFD-B8B2-F0C0344B89F8}") = "rotatedline", "rotatedline.vcproj", "{5335E8F6-966B-79E4-D246-1AA9623E73B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5335E8F6-966B-79E4-D246-1AA9623E73B2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5335E8F6-966B-79E4-D246-1AA9623E73B2}.Debug|Win32.Build.0 = Debug|Win32
+		{5335E8F6-966B-79E4-D246-1AA9623E73B2}.Release|Win32.ActiveCfg = Release|Win32
+		{5335E8F6-966B-79E4-D246-1AA9623E73B2}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

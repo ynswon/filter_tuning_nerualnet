@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FBE29795-0A41-177D-B506-87BA17DB8C7E}") = "surfaceperspective", "surfaceperspective.vcproj", "{D3C1C4D8-38FE-309B-D88F-3CFFC89A64E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3C1C4D8-38FE-309B-D88F-3CFFC89A64E5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D3C1C4D8-38FE-309B-D88F-3CFFC89A64E5}.Debug|Win32.Build.0 = Debug|Win32
+		{D3C1C4D8-38FE-309B-D88F-3CFFC89A64E5}.Release|Win32.ActiveCfg = Release|Win32
+		{D3C1C4D8-38FE-309B-D88F-3CFFC89A64E5}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

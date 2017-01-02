@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{BA50E023-B6DC-E2AF-96CB-B20877896070}") = "semicirclemeterreadout", "semicirclemeterreadout.vcproj", "{ADBA4B88-D3D4-8786-ED9B-9F4F9C39E2E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADBA4B88-D3D4-8786-ED9B-9F4F9C39E2E6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{ADBA4B88-D3D4-8786-ED9B-9F4F9C39E2E6}.Debug|Win32.Build.0 = Debug|Win32
+		{ADBA4B88-D3D4-8786-ED9B-9F4F9C39E2E6}.Release|Win32.ActiveCfg = Release|Win32
+		{ADBA4B88-D3D4-8786-ED9B-9F4F9C39E2E6}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

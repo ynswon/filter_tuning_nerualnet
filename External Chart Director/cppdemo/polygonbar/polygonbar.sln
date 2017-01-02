@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{C0105C2D-DF61-E9F4-872C-4290AE66509C}") = "polygonbar", "polygonbar.vcproj", "{F53EDFEC-C081-204B-DBCA-975CCCB8FD42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F53EDFEC-C081-204B-DBCA-975CCCB8FD42}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F53EDFEC-C081-204B-DBCA-975CCCB8FD42}.Debug|Win32.Build.0 = Debug|Win32
+		{F53EDFEC-C081-204B-DBCA-975CCCB8FD42}.Release|Win32.ActiveCfg = Release|Win32
+		{F53EDFEC-C081-204B-DBCA-975CCCB8FD42}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

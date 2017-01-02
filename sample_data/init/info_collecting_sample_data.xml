@@ -1,0 +1,19 @@
+<info>
+	<project_name>
+		C19_ROSWIN
+	</project_name>
+	<!-- 프로그램 켜진 후 동작 시간, 1900초 31-->
+	<duration unit='second'>
+		1900
+	</duration>
+	
+	<device>
+		<!-- internal: 내부, external: 외부 -->
+		<connection_type>
+			internal
+		</connection_type>
+		<name>
+			Agilent 5071c
+		</name>
+	</device>
+</info>

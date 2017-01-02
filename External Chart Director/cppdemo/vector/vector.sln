@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{26BE7B87-263B-B7C7-5E64-E0AEAA66DC7A}") = "vector", "vector.vcproj", "{696FDC5C-121F-AF90-5C68-E2B46BE3523E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{696FDC5C-121F-AF90-5C68-E2B46BE3523E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{696FDC5C-121F-AF90-5C68-E2B46BE3523E}.Debug|Win32.Build.0 = Debug|Win32
+		{696FDC5C-121F-AF90-5C68-E2B46BE3523E}.Release|Win32.ActiveCfg = Release|Win32
+		{696FDC5C-121F-AF90-5C68-E2B46BE3523E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

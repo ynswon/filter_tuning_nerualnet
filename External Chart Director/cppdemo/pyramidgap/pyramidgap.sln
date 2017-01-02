@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{1239EB61-7EB5-0BE6-CE53-59E8478FBF1A}") = "pyramidgap", "pyramidgap.vcproj", "{F49DE0AF-66F7-D1E9-E2F8-B0D39B0C8471}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F49DE0AF-66F7-D1E9-E2F8-B0D39B0C8471}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F49DE0AF-66F7-D1E9-E2F8-B0D39B0C8471}.Debug|Win32.Build.0 = Debug|Win32
+		{F49DE0AF-66F7-D1E9-E2F8-B0D39B0C8471}.Release|Win32.ActiveCfg = Release|Win32
+		{F49DE0AF-66F7-D1E9-E2F8-B0D39B0C8471}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

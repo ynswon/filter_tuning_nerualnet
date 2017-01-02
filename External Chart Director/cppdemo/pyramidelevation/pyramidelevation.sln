@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{D9E95C60-C136-8078-42F2-405DD62721EE}") = "pyramidelevation", "pyramidelevation.vcproj", "{2BB979E4-710C-5E09-A5CC-2262386B214D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BB979E4-710C-5E09-A5CC-2262386B214D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2BB979E4-710C-5E09-A5CC-2262386B214D}.Debug|Win32.Build.0 = Debug|Win32
+		{2BB979E4-710C-5E09-A5CC-2262386B214D}.Release|Win32.ActiveCfg = Release|Win32
+		{2BB979E4-710C-5E09-A5CC-2262386B214D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

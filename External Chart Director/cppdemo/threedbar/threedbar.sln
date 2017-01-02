@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{67EE5918-C4D0-9698-0C24-A56732A4A1D7}") = "threedbar", "threedbar.vcproj", "{61687213-C5BF-0817-26C5-61907D986D2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61687213-C5BF-0817-26C5-61907D986D2F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{61687213-C5BF-0817-26C5-61907D986D2F}.Debug|Win32.Build.0 = Debug|Win32
+		{61687213-C5BF-0817-26C5-61907D986D2F}.Release|Win32.ActiveCfg = Release|Win32
+		{61687213-C5BF-0817-26C5-61907D986D2F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

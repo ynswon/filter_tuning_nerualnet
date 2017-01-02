@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8201450E-9F48-0C62-AEC9-BC95F169C2ED}") = "hbarmeterorientation", "hbarmeterorientation.vcproj", "{64A16B9B-80D5-73DC-5D48-C6B0D3FBAB0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64A16B9B-80D5-73DC-5D48-C6B0D3FBAB0D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{64A16B9B-80D5-73DC-5D48-C6B0D3FBAB0D}.Debug|Win32.Build.0 = Debug|Win32
+		{64A16B9B-80D5-73DC-5D48-C6B0D3FBAB0D}.Release|Win32.ActiveCfg = Release|Win32
+		{64A16B9B-80D5-73DC-5D48-C6B0D3FBAB0D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

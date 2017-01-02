@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{C2561BF6-88DE-834A-C83A-8E91AA0982F1}") = "multiaxes", "multiaxes.vcproj", "{8119F937-D607-1EEC-53ED-6B7F199B8FB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8119F937-D607-1EEC-53ED-6B7F199B8FB3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8119F937-D607-1EEC-53ED-6B7F199B8FB3}.Debug|Win32.Build.0 = Debug|Win32
+		{8119F937-D607-1EEC-53ED-6B7F199B8FB3}.Release|Win32.ActiveCfg = Release|Win32
+		{8119F937-D607-1EEC-53ED-6B7F199B8FB3}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

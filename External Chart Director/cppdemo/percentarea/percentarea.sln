@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{5FE3E63E-D808-4F49-C04B-69BCC29C5079}") = "percentarea", "percentarea.vcproj", "{DB253CA4-83E0-6B39-5D3E-A3089B19C22F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB253CA4-83E0-6B39-5D3E-A3089B19C22F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DB253CA4-83E0-6B39-5D3E-A3089B19C22F}.Debug|Win32.Build.0 = Debug|Win32
+		{DB253CA4-83E0-6B39-5D3E-A3089B19C22F}.Release|Win32.ActiveCfg = Release|Win32
+		{DB253CA4-83E0-6B39-5D3E-A3089B19C22F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

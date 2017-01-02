@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{3BD1DFE5-3A25-E124-6D51-EDBFDF699036}") = "vbarmeter", "vbarmeter.vcproj", "{F3F19C9D-2EE3-23E1-BB35-62778CC62205}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3F19C9D-2EE3-23E1-BB35-62778CC62205}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F3F19C9D-2EE3-23E1-BB35-62778CC62205}.Debug|Win32.Build.0 = Debug|Win32
+		{F3F19C9D-2EE3-23E1-BB35-62778CC62205}.Release|Win32.ActiveCfg = Release|Win32
+		{F3F19C9D-2EE3-23E1-BB35-62778CC62205}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

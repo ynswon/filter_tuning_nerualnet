@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{AF9368BB-DE0C-5AA6-D259-0210F63547A7}") = "funnel", "funnel.vcproj", "{1EC35EC7-760B-6AB3-91B8-524F6922CA7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EC35EC7-760B-6AB3-91B8-524F6922CA7A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1EC35EC7-760B-6AB3-91B8-524F6922CA7A}.Debug|Win32.Build.0 = Debug|Win32
+		{1EC35EC7-760B-6AB3-91B8-524F6922CA7A}.Release|Win32.ActiveCfg = Release|Win32
+		{1EC35EC7-760B-6AB3-91B8-524F6922CA7A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

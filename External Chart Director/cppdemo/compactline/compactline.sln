@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{13422325-C0D0-24EA-D1BB-3F8B6CFFD699}") = "compactline", "compactline.vcproj", "{7E5755EE-903C-8C4C-0F56-DEB0C06943F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E5755EE-903C-8C4C-0F56-DEB0C06943F7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7E5755EE-903C-8C4C-0F56-DEB0C06943F7}.Debug|Win32.Build.0 = Debug|Win32
+		{7E5755EE-903C-8C4C-0F56-DEB0C06943F7}.Release|Win32.ActiveCfg = Release|Win32
+		{7E5755EE-903C-8C4C-0F56-DEB0C06943F7}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

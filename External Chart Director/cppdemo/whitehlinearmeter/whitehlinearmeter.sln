@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{C62C9392-BF13-9C3C-7493-381850DD519D}") = "whitehlinearmeter", "whitehlinearmeter.vcproj", "{041FB736-89A8-FA27-D02A-B8418718DEE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{041FB736-89A8-FA27-D02A-B8418718DEE6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{041FB736-89A8-FA27-D02A-B8418718DEE6}.Debug|Win32.Build.0 = Debug|Win32
+		{041FB736-89A8-FA27-D02A-B8418718DEE6}.Release|Win32.ActiveCfg = Release|Win32
+		{041FB736-89A8-FA27-D02A-B8418718DEE6}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

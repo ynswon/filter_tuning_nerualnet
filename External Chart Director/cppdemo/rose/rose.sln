@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{AE0E0F43-BDDC-0BBC-6A93-B05F0515B2E3}") = "rose", "rose.vcproj", "{3458BEC9-8F62-FECE-D723-9F519201BA07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3458BEC9-8F62-FECE-D723-9F519201BA07}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3458BEC9-8F62-FECE-D723-9F519201BA07}.Debug|Win32.Build.0 = Debug|Win32
+		{3458BEC9-8F62-FECE-D723-9F519201BA07}.Release|Win32.ActiveCfg = Release|Win32
+		{3458BEC9-8F62-FECE-D723-9F519201BA07}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

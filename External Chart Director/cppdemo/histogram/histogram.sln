@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{1F6F6BB3-67DA-66DF-C3CC-87C9E609BE89}") = "histogram", "histogram.vcproj", "{40B8B309-E667-41C1-A17A-A4B8329DE7A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40B8B309-E667-41C1-A17A-A4B8329DE7A8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{40B8B309-E667-41C1-A17A-A4B8329DE7A8}.Debug|Win32.Build.0 = Debug|Win32
+		{40B8B309-E667-41C1-A17A-A4B8329DE7A8}.Release|Win32.ActiveCfg = Release|Win32
+		{40B8B309-E667-41C1-A17A-A4B8329DE7A8}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

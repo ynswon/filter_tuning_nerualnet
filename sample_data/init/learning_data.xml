@@ -1,0 +1,52 @@
+<learning_data>
+	<data>
+		<!-- index가 의미하는 건 neuralnet input에 앞단에 들어간다는 뜻 -->
+		<input_set index="0" type="s22">
+			<values index="0">
+				<value type="real" index="0">3.741</value>
+				<value type="image" index="1">3.741</value>
+			</values>
+			<values index="1">
+				<value type="real" index="0">3.741</value>
+				<value type="image" index="1">3.741</value>
+			</values>
+			<values index="2">
+				<value type="real" index="0">3.741</value>
+				<value type="image" index="1">3.741</value>
+			</values>
+		</input_set>
+		<output_set>
+			<value index="0">0<value>
+			<value index="1">0<value>
+			<value index="2">0<value>
+			<value index="3">0<value>
+			<value index="4">0<value>
+			<value index="5">0<value>
+		</output>
+	</data>
+	<data>
+		<!-- index가 의미하는 건 neuralnet input에 앞단에 들어간다는 뜻 -->
+		<input_set index="0" type="s22">
+			<values index="0">
+				<value type="real" index="0">3.741</value>
+				<value type="image" index="1">3.741</value>
+			</values>
+			<values index="1">
+				<value type="real" index="0">3.741</value>
+				<value type="image" index="1">3.741</value>
+			</values>
+			<values index="2">
+				<value type="real" index="0">3.741</value>
+				<value type="image" index="1">3.741</value>
+			</values>
+		</input_set>
+		<output_set>
+			<value index="0">1<value>
+			<value index="1">0<value>
+			<value index="2">0<value>
+			<value index="3">0<value>
+			<value index="4">0<value>
+			<value index="5">0<value>
+		</output>
+	</data>
+<learning_data>

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{06B9731C-6FE4-5522-46F2-6445F682FA0A}") = "whiteroundmeter", "whiteroundmeter.vcproj", "{BE11D9C6-F37F-932D-0A01-599BFAFBDD03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE11D9C6-F37F-932D-0A01-599BFAFBDD03}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BE11D9C6-F37F-932D-0A01-599BFAFBDD03}.Debug|Win32.Build.0 = Debug|Win32
+		{BE11D9C6-F37F-932D-0A01-599BFAFBDD03}.Release|Win32.ActiveCfg = Release|Win32
+		{BE11D9C6-F37F-932D-0A01-599BFAFBDD03}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

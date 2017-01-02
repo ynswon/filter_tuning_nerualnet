@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{867920E3-73D0-A04A-76CF-852E4E8D0602}") = "overlapbar", "overlapbar.vcproj", "{19C0EF22-20BE-0541-2025-31429CC61EFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19C0EF22-20BE-0541-2025-31429CC61EFA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{19C0EF22-20BE-0541-2025-31429CC61EFA}.Debug|Win32.Build.0 = Debug|Win32
+		{19C0EF22-20BE-0541-2025-31429CC61EFA}.Release|Win32.ActiveCfg = Release|Win32
+		{19C0EF22-20BE-0541-2025-31429CC61EFA}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

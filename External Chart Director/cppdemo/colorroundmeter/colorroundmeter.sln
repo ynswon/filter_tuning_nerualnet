@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{19962410-41A3-18BA-4460-DA8A3F6CEFE9}") = "colorroundmeter", "colorroundmeter.vcproj", "{21ABD3C4-655E-4849-28EF-63CCE87731F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21ABD3C4-655E-4849-28EF-63CCE87731F7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{21ABD3C4-655E-4849-28EF-63CCE87731F7}.Debug|Win32.Build.0 = Debug|Win32
+		{21ABD3C4-655E-4849-28EF-63CCE87731F7}.Release|Win32.ActiveCfg = Release|Win32
+		{21ABD3C4-655E-4849-28EF-63CCE87731F7}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

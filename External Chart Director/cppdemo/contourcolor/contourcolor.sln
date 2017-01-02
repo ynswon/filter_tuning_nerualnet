@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{EAF822BA-BB39-EEBD-EED9-BFE8DBB9EC5D}") = "contourcolor", "contourcolor.vcproj", "{FAA88A61-1FAA-F0E1-6041-CE7ECC61C6F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAA88A61-1FAA-F0E1-6041-CE7ECC61C6F0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FAA88A61-1FAA-F0E1-6041-CE7ECC61C6F0}.Debug|Win32.Build.0 = Debug|Win32
+		{FAA88A61-1FAA-F0E1-6041-CE7ECC61C6F0}.Release|Win32.ActiveCfg = Release|Win32
+		{FAA88A61-1FAA-F0E1-6041-CE7ECC61C6F0}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

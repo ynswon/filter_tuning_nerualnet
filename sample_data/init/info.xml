@@ -1,0 +1,131 @@
+<info>
+    <project_name>roswin_filter</project_name>
+    <filter_name>LOW</filter_name>
+    <sw_name>FT</sw_name>
+    <machine_status>PROJECT_SETTING</machine_status>
+    <ping_count>48</ping_count>
+    <pole_of_interest>-842150451</pole_of_interest>
+    <duration unit="second">9</duration>
+    <device>
+        <connection_type>internal</connection_type>
+        <name/>
+    </device>
+    <message_id>11_1471157887</message_id>
+    <number_of_poles>19</number_of_poles>
+    <prediction_pole_data>
+        <name index="1">
+            <index>1</index>
+            <name>RX1</name>
+            <property>R</property>
+            <delta>0</delta>
+        </name>
+        <name index="2">
+            <index>2</index>
+            <name>C1-2</name>
+            <property>C</property>
+            <delta>0</delta>
+        </name>
+        <name index="3">
+            <index>3</index>
+            <name>RX2</name>
+            <property>R</property>
+            <delta>0</delta>
+        </name>
+        <name index="4">
+            <index>4</index>
+            <name>C2-3</name>
+            <property>C</property>
+            <delta>0</delta>
+        </name>
+        <name index="5">
+            <index>5</index>
+            <name>RX3</name>
+            <property>R</property>
+            <delta>0</delta>
+        </name>
+        <name index="6">
+            <index>6</index>
+            <name>C3-4</name>
+            <property>C</property>
+            <delta>0</delta>
+        </name>
+        <name index="7">
+            <index>7</index>
+            <name>RX4</name>
+            <property>R</property>
+            <delta>0</delta>
+        </name>
+        <name index="8">
+            <index>8</index>
+            <name>C1-4</name>
+            <property>C</property>
+            <delta>0</delta>
+        </name>
+        <name index="9">
+            <index>9</index>
+            <name>C1-3</name>
+            <property>R</property>
+            <delta>0</delta>
+        </name>
+        <name index="10">
+            <index>10</index>
+            <name>C4-5</name>
+            <property>C</property>
+            <delta>0</delta>
+        </name>
+        <name index="11">
+            <index>11</index>
+            <name>RX5</name>
+            <property>R</property>
+            <delta>123</delta>
+        </name>
+        <name index="12">
+            <index>12</index>
+            <name>C5-6</name>
+            <property>C</property>
+            <delta>0</delta>
+        </name>
+        <name index="13">
+            <index>13</index>
+            <name>RX6</name>
+            <property>R</property>
+            <delta>0</delta>
+        </name>
+        <name index="14">
+            <index>14</index>
+            <name>C6-7</name>
+            <property>C</property>
+            <delta>0</delta>
+        </name>
+        <name index="15">
+            <index>15</index>
+            <name>RX7</name>
+            <property>R</property>
+            <delta>0</delta>
+        </name>
+        <name index="16">
+            <index>16</index>
+            <name>C7-8</name>
+            <property>C</property>
+            <delta>0</delta>
+        </name>
+        <name index="17">
+            <index>17</index>
+            <name>RX8</name>
+            <property>R</property>
+            <delta>0</delta>
+        </name>
+        <name index="18">
+            <index>18</index>
+            <name>C5-8</name>
+            <property>C</property>
+            <delta>0</delta>
+        </name>
+        <name index="19">
+            <index>19</index>
+            <name>C5-7</name>
+            <property>R</property>
+            <delta>0</delta>
+        </name>
+    </prediction_pole_data>
+</info>
